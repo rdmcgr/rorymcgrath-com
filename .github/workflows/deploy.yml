@@ -28,6 +28,7 @@ jobs:
       - name: Sync root site to Bluehost
         run: |
           rsync -rlgoDzvc --delete \
+            --exclude='hosted/' \
             --exclude='.git/' \
             --exclude='.github/' \
             --exclude='.DS_Store' \
