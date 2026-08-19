@@ -1,1 +1,1 @@
-console.log("Root site scaffold ready.");
+document.getElementById("copyright-year").textContent = new Date().getFullYear();

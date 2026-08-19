@@ -73,9 +73,10 @@ body {
 }
 
 h1 {
-  margin: 22px 0 18px;
+  margin: 22px auto 26px;
+  max-width: 9ch;
   font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
-  font-size: clamp(3rem, 13vw, 7.7rem);
+  font-size: clamp(2.9rem, 10vw, 6.6rem);
   font-weight: 900;
   line-height: 0.86;
   letter-spacing: -0.06em;
@@ -85,7 +86,6 @@ h1 {
 
 .cursor {
   display: inline-block;
-  margin-left: 4px;
   color: var(--purple);
   animation: blink 0.9s steps(1, end) infinite;
 }
@@ -98,6 +98,59 @@ h1 {
   line-height: 1.5;
 }
 
+.travel-map,
+.map-key {
+  width: 100%;
+  margin: 0 0 20px;
+  border: 3px solid var(--ink);
+  background: #fff;
+  box-shadow: 6px 6px 0 var(--pink);
+}
+
+.travel-map {
+  overflow: hidden;
+}
+
+.travel-map iframe {
+  display: block;
+  width: 100%;
+  height: clamp(300px, 56vw, 470px);
+  border: 0;
+}
+
+.map-key {
+  position: relative;
+  padding: 8px;
+}
+
+.key-label {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  z-index: 1;
+  padding: 4px 7px;
+  border: 2px solid var(--ink);
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: bold;
+  letter-spacing: 0.12em;
+  background: var(--purple);
+  box-shadow: 3px 3px 0 var(--pink);
+}
+
+.map-caption {
+  margin: 0 0 20px;
+  font-size: clamp(0.95rem, 2.5vw, 1.1rem);
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.map-key img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .status {
   color: #fff;
   background: var(--ink);
@@ -105,6 +158,16 @@ h1 {
 
 .status strong {
   color: var(--teal);
+}
+
+.copyright {
+  margin-top: 22px;
+  color: #fff;
+  font-size: 0.78rem;
+  font-weight: bold;
+  letter-spacing: 0.06em;
+  text-align: center;
+  text-shadow: 2px 2px 0 var(--ink);
 }
 
 @keyframes blink {
@@ -115,4 +178,6 @@ h1 {
   .site { padding: 14px; }
   .window { border-width: 4px; box-shadow: 7px 7px 0 var(--purple); }
   .screen { padding: 36px 20px; }
+  .travel-map,
+  .map-key { box-shadow: 4px 4px 0 var(--pink); }
 }

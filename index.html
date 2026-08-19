@@ -8,18 +8,32 @@
   </head>
   <body>
     <main class="site">
-      <section class="window" aria-labelledby="coming-soon-title">
+      <section class="window" aria-labelledby="travel-title">
         <div class="title-bar">
           <span>RORYMCGRATH.COM</span>
           <span aria-hidden="true">_ □ ×</span>
         </div>
         <div class="screen">
           <p class="kicker">WELCOME, INTERNET TRAVELER!</p>
-          <h1 id="coming-soon-title">Coming soon.<span class="cursor" aria-hidden="true">_</span></h1>
-          <p class="tagline">A website is being assembled from premium-grade pixels and vague ambition.</p>
+          <h1 id="travel-title">I like to travel, too!<span class="cursor" aria-hidden="true">_</span></h1>
+          <div class="travel-map">
+            <iframe
+              src="https://www.google.com/maps/d/embed?mid=1Oyzdo98mdvefaxb2RG-TV2-4D8Xc-l8&amp;ehbc=2E312F"
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"
+              title="Rory's travel map"
+            ></iframe>
+          </div>
+          <p class="map-caption">These are some of the places I've traveled in the last handful of years while exploring the left coast and western U.S.</p>
+          <figure class="map-key">
+            <span class="key-label">KEY</span>
+            <img src="./images/national-parks-and-points-of-interest.png" alt="Map key for national parks and points of interest" />
+          </figure>
           <p class="status">STATUS: <strong>IN PROGRESS</strong></p>
         </div>
       </section>
+      <footer class="copyright">&copy; <span id="copyright-year"></span> Rory McGrath.</footer>
     </main>
+    <script src="./app.js"></script>
   </body>
 </html>
