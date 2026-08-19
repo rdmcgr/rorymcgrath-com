@@ -98,10 +98,14 @@ h1 {
   line-height: 1.5;
 }
 
-.travel-map,
-.map-key {
+.travel-map {
   width: 100%;
   margin: 0 0 20px;
+}
+
+.map-key {
+  width: min(100%, 520px);
+  margin: 0 auto 20px;
   border: 3px solid var(--ink);
   background: #fff;
   box-shadow: 6px 6px 0 var(--pink);
@@ -175,9 +179,14 @@ h1 {
 }
 
 @media (max-width: 480px) {
-  .site { padding: 14px; }
-  .window { border-width: 4px; box-shadow: 7px 7px 0 var(--purple); }
-  .screen { padding: 36px 20px; }
+  .site { padding: 12px; }
+  .window { border-width: 4px; box-shadow: 6px 6px 0 var(--purple); }
+  .screen { padding: 30px 16px; }
+  h1 { margin: 18px auto 22px; font-size: clamp(2.4rem, 13vw, 3.5rem); }
+  .travel-map iframe { height: 280px; }
+  .map-caption { margin-bottom: 16px; font-size: 0.95rem; }
+  .map-key { width: min(78%, 280px); margin-bottom: 18px; }
+  .key-label { top: 2px; left: 2px; padding: 3px 5px; font-size: 0.65rem; }
   .travel-map,
   .map-key { box-shadow: 4px 4px 0 var(--pink); }
 }
