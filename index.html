@@ -8,7 +8,12 @@
   </head>
   <body>
     <main class="site">
-      <section class="window" aria-labelledby="travel-title">
+      <nav class="section-switcher" aria-label="Explore the site" role="tablist">
+        <button class="section-tab is-active" id="travel-tab" type="button" role="tab" aria-selected="true" aria-controls="travel-panel">Places I’ve Been</button>
+        <button class="section-tab" id="projects-tab" type="button" role="tab" aria-selected="false" aria-controls="projects-panel" tabindex="-1">Things I’ve Built</button>
+      </nav>
+
+      <section class="window section-panel" id="travel-panel" role="tabpanel" aria-labelledby="travel-tab">
         <div class="title-bar">
           <span>RORYMCGRATH.COM</span>
           <span aria-hidden="true">_ □ ×</span>
@@ -31,6 +36,26 @@
           </figure>
         </div>
       </section>
+
+      <section class="projects-window section-panel" id="projects-panel" role="tabpanel" aria-labelledby="projects-tab" hidden>
+        <div class="title-bar">
+          <span>THINGS_I_BUILT.EXE</span>
+          <span aria-hidden="true">_ □ ×</span>
+        </div>
+        <div class="projects-content">
+          <p class="kicker">THINGS I’VE BUILT</p>
+          <h2 id="projects-title">Projects<br><span class="title-lockup">worth a look.<span class="cursor" aria-hidden="true">_</span></span></h2>
+          <div class="project-grid">
+            <article class="project-card">
+              <p class="project-type">MY FAVORITE NFL PLAYERS</p>
+              <h3>Sunday Favorites</h3>
+              <p class="project-description">The players I tune in to watch — an evolving personal collection of NFL favorites, organized by role/position.</p>
+              <a class="project-link" href="https://sundayfavorites.rorymcgrath.com/" target="_blank" rel="noopener">Visit Sunday Favorites <span aria-hidden="true">↗</span></a>
+            </article>
+          </div>
+        </div>
+      </section>
+
       <footer class="copyright">&copy; <span id="copyright-year"></span> Rory McGrath.</footer>
     </main>
     <script src="./app.js"></script>

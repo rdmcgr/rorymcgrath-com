@@ -34,10 +34,58 @@ body {
   padding: 24px;
 }
 
+.section-switcher {
+  display: inline-flex;
+  width: min(760px, 100%);
+  margin-bottom: 14px;
+  padding: 6px;
+  border: 3px solid var(--ink);
+  background: var(--paper);
+  box-shadow: 7px 7px 0 var(--ink);
+}
+
+.section-tab {
+  flex: 1;
+  min-height: 44px;
+  padding: 10px 12px;
+  border: 0;
+  color: var(--ink);
+  font: bold clamp(0.72rem, 2.4vw, 0.9rem)/1 "Courier New", Courier, monospace;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  background: transparent;
+  cursor: pointer;
+  transition: background 160ms ease, color 160ms ease, transform 160ms ease;
+}
+
+.section-tab:hover,
+.section-tab:focus-visible {
+  background: rgba(118, 39, 209, 0.14);
+}
+
+.section-tab:focus-visible {
+  outline: 3px solid var(--pink);
+  outline-offset: -3px;
+}
+
+.section-tab.is-active {
+  color: #fff;
+  background: var(--ink);
+  box-shadow: inset 0 -4px 0 var(--yellow);
+}
+
 .window {
   width: min(760px, 100%);
   border: 5px solid var(--ink);
   box-shadow: 12px 12px 0 var(--purple);
+  background: var(--paper);
+}
+
+.projects-window {
+  width: min(760px, 100%);
+  margin-top: 0;
+  border: 5px solid var(--ink);
+  box-shadow: 12px 12px 0 var(--pink);
   background: var(--paper);
 }
 
@@ -164,14 +212,116 @@ h1 {
   text-shadow: 2px 2px 0 var(--ink);
 }
 
+.projects-content {
+  padding: clamp(30px, 6vw, 52px) clamp(24px, 8vw, 70px);
+}
+
+.projects-content h2 {
+  max-width: none;
+  margin: 20px auto 28px;
+  font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
+  font-size: clamp(2.5rem, 8vw, 5.3rem);
+  font-weight: 900;
+  line-height: 0.88;
+  letter-spacing: -0.055em;
+  text-transform: uppercase;
+  text-align: center;
+  text-shadow: 3px 3px 0 var(--teal);
+}
+
+.projects-content > .kicker {
+  display: table;
+  margin-inline: auto;
+}
+
+.title-lockup {
+  white-space: nowrap;
+}
+
+.project-grid {
+  display: grid;
+  gap: 18px;
+}
+
+.project-card {
+  padding: clamp(22px, 5vw, 34px);
+  border: 3px solid var(--ink);
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.18), transparent 36%),
+    var(--purple);
+  box-shadow: 7px 7px 0 var(--teal);
+  color: #fff;
+}
+
+.project-type {
+  margin: 0;
+  color: var(--yellow);
+  font-size: 0.75rem;
+  font-weight: bold;
+  letter-spacing: 0.12em;
+}
+
+.project-card h3 {
+  margin: 12px 0 13px;
+  font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
+  font-size: clamp(2.4rem, 8vw, 4.2rem);
+  font-weight: 900;
+  line-height: 0.9;
+  letter-spacing: -0.04em;
+  text-transform: uppercase;
+}
+
+.project-description {
+  max-width: 38rem;
+  margin: 0 0 24px;
+  font-size: 1rem;
+  font-weight: bold;
+  line-height: 1.55;
+}
+
+.project-link {
+  display: inline-block;
+  padding: 10px 12px;
+  border: 2px solid var(--ink);
+  color: var(--ink);
+  font-size: 0.85rem;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  background: var(--yellow);
+  box-shadow: 4px 4px 0 var(--ink);
+}
+
+.project-link:hover,
+.project-link:focus-visible {
+  color: #fff;
+  background: var(--pink);
+}
+
+.section-panel:not([hidden]) {
+  animation: panel-arrive 220ms ease-out;
+}
+
+@keyframes panel-arrive {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
 @keyframes blink {
   50% { opacity: 0; }
 }
 
 @media (max-width: 480px) {
   .site { padding: 12px; }
+  .section-switcher { margin-bottom: 11px; padding: 4px; box-shadow: 5px 5px 0 var(--ink); }
+  .section-tab { min-height: 42px; padding-inline: 7px; font-size: 0.68rem; letter-spacing: 0.02em; }
   .window { border-width: 4px; box-shadow: 6px 6px 0 var(--purple); }
+  .projects-window { border-width: 4px; box-shadow: 6px 6px 0 var(--pink); }
   .screen { padding: 30px 16px; }
+  .projects-content { padding: 30px 20px; }
+  .projects-content h2 { margin: 18px 0 24px; font-size: clamp(2.3rem, 13vw, 3.5rem); }
+  .project-card { padding: 22px; box-shadow: 4px 4px 0 var(--teal); }
+  .project-link { box-shadow: 3px 3px 0 var(--ink); }
   h1 { margin: 18px auto 22px; font-size: clamp(2.4rem, 13vw, 3.5rem); }
   .travel-map iframe { height: 280px; }
   .map-caption { margin-bottom: 16px; font-size: 0.95rem; }
