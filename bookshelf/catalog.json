@@ -1,0 +1,2631 @@
+{
+  "books": [
+    {
+      "title": "1776",
+      "author": "David McCullough",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/541237-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL2820748W"
+      }
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10541663-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL24143668W"
+      }
+    },
+    {
+      "title": "1929: Inside the Greatest Crash in Wall Street History and How It Shattered a Nation",
+      "author": "Andrew Ross Sorkin",
+      "category": "Personal Finance & Investing",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/15161980-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL44551395W"
+      }
+    },
+    {
+      "title": "7 Powers: The Foundations of Business Strategy",
+      "author": "Hamilton Helmer",
+      "category": "Business",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10208801-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20883142W"
+      }
+    },
+    {
+      "title": "A Brief History Of Time",
+      "author": "Stephen Hawking",
+      "category": "Science",
+      "subcategory": "Physics",
+      "cover": {
+        "image": "https://images.penguinrandomhouse.com/cover/9780553380163",
+        "source": "https://penguinrandomhouselibrary.com/book/?isbn=9780553380163"
+      }
+    },
+    {
+      "title": "A City So Grand: The Rise of an American Metropolis, Boston 1850-1900",
+      "author": "Stephen Puleo",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/12186749-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL15327130W"
+      }
+    },
+    {
+      "title": "A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market",
+      "author": "Edward O. Thorp",
+      "category": "Personal Finance & Investing",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8822906-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20050810W"
+      }
+    },
+    {
+      "title": "A Man Without a Country",
+      "author": "Kurt Vonnegut",
+      "category": "Misc. Non-fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/488595-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL15006670W"
+      }
+    },
+    {
+      "title": "A Random Walk Down Wall Street",
+      "author": "Burton G. Malkiel",
+      "category": "Personal Finance & Investing",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10328035-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL21139737W"
+      }
+    },
+    {
+      "title": "A Short History of Nearly Everything",
+      "author": "Bill Bryson",
+      "category": "Science",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/12725620-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL74128W"
+      }
+    },
+    {
+      "title": "A Short History of The World",
+      "author": "H.G. Wells",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/12107499-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL26149782W"
+      }
+    },
+    {
+      "title": "A Supposedly Fun Thing I'll Never Do Again",
+      "author": "David Foster Wallace",
+      "category": "Misc. Non-fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/191074-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL2943597W"
+      }
+    },
+    {
+      "title": "A World Appears: A Journey into Consciousness",
+      "author": "Michael Pollan",
+      "category": "Science",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/15182394-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL45011996W"
+      }
+    },
+    {
+      "title": "Abundance",
+      "author": "Ezra Klein, Derek Thompson",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/15123873-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL42415680W"
+      }
+    },
+    {
+      "title": "Alice in Wonderland",
+      "author": "Lewis Carroll",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/13456478-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL25571206W"
+      }
+    },
+    {
+      "title": "All The Pieces Matter: The Inside Story of The Wire",
+      "author": "Jonathan Abrams",
+      "category": "Entertainment",
+      "subcategory": "Oral History",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10513234-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL21183840W"
+      }
+    },
+    {
+      "title": "All The Rave: The Rise and Fall of Shawn Fanning's Napster",
+      "author": "Joseph Menn",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/390846-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL8198381W"
+      }
+    },
+    {
+      "title": "All The Shah's Men: An American Coup And The Roots Of Middle East Terror",
+      "author": "Stephen Kinzer",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/1240118-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL4452488W"
+      }
+    },
+    {
+      "title": "America's Bank: The Epic Struggle to Create the Federal Reserve",
+      "author": "Roger Lowenstein",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8904004-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17346058W"
+      }
+    },
+    {
+      "title": "America's Bitter Pill: The Fight to Fix our Broken Healthcare System",
+      "author": "Steven Brill",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/11588298-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19662846W"
+      }
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/11261770-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL1168007W"
+      }
+    },
+    {
+      "title": "Antifragile: Things that Gain from Disorder",
+      "author": "Nassim Nicholas Taleb",
+      "category": "Science",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9180157-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL16726829W"
+      }
+    },
+    {
+      "title": "Apple in China: The Capture of the World's Greatest Company",
+      "author": "Patrick McGee",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/15151586-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL42444717W"
+      }
+    },
+    {
+      "title": "Ask Gary Vee",
+      "author": "Gary Vaynerchuk",
+      "category": "Business",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7913048-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17640584W"
+      }
+    },
+    {
+      "title": "Astrophysics for People in a Hurry",
+      "author": "Neil Degrasse Tyson",
+      "category": "Science",
+      "subcategory": "Physics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7984709-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17710047W"
+      }
+    },
+    {
+      "title": "At The Edge Of Camelot: Debating Economics In Turbulent Times",
+      "author": "Donald W. Katzner",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://global.oup.com/academic/covers/pop-up/9780199765355",
+        "source": "https://academic.oup.com/book/8120"
+      }
+    },
+    {
+      "title": "Atlas Shrugged",
+      "author": "Ayn Rand",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/361784-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL731644W"
+      }
+    },
+    {
+      "title": "Awareness: Conversations with the Masters",
+      "author": "Anthony De Mello",
+      "category": "Personal Exploration & Skills",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6921944-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL16058923W"
+      }
+    },
+    {
+      "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+      "author": "John Carreyrou",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/12735651-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17892614W"
+      }
+    },
+    {
+      "title": "Barbarians At The Gate: The Fall Of RJR Nabisco",
+      "author": "Bryan Burrough, John Helyar",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/4095854-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL1975260W"
+      }
+    },
+    {
+      "title": "Basketball (And Other Things)",
+      "author": "Shea Serrano",
+      "category": "Sports",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14443559-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19718753W"
+      }
+    },
+    {
+      "title": "Beginning of Infinity",
+      "author": "David Deutsch",
+      "category": "Science",
+      "subcategory": "Physics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8622269-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL4325174W"
+      }
+    },
+    {
+      "title": "Big Business: A Love Letter to an American Anti-Hero",
+      "author": "Tyler Cowen",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8802192-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20157100W"
+      }
+    },
+    {
+      "title": "Bionomics",
+      "author": "Michael Rothschild",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/579228-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL8243469W"
+      }
+    },
+    {
+      "title": "Black Flags: The Rise of ISIS",
+      "author": "Joby Warrick",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7390151-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17311140W"
+      }
+    },
+    {
+      "title": "Blood  In The Cage: Mixed Martial Arts, Pat Miletich, and the Furious Rise of the UFC",
+      "author": "L. Jon Wertheim",
+      "category": "Sports",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6954305-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL6043154W"
+      }
+    },
+    {
+      "title": "Blood And Oil: The Dangers And Consequences Of America's Growing Dependency On Importing Petroleum",
+      "author": "Michael T. Klare",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/581483-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL3375130W"
+      }
+    },
+    {
+      "title": "Boom: Bubbles and the End of Stagnation",
+      "author": "Byrne Hobart, Tobias Huber",
+      "category": "Business",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/15101648-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL37938070W"
+      }
+    },
+    {
+      "title": "Boomerang",
+      "author": "Michael Lewis",
+      "category": "Business",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6942870-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL16102036W"
+      }
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8231823-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL64365W"
+      }
+    },
+    {
+      "title": "Breakneck: China's Quest to Engineer the Future",
+      "author": "Dan Wang",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/15121652-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL42416011W"
+      }
+    },
+    {
+      "title": "Bringing Down The House: The Inside Story Of Six M.I.T. Students Who Took Vegas For Millions",
+      "author": "Ben Mezrich",
+      "category": "Entertainment",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/473703-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL61394W"
+      }
+    },
+    {
+      "title": "Built To Last",
+      "author": "Jim Collins",
+      "category": "Business",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/684195-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL3486276W"
+      }
+    },
+    {
+      "title": "Capital Volume I",
+      "author": "Karl Marx",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://cdn.penguin.co.uk/dam-assets/books/9780140445688/9780140445688-jacket-large.jpg",
+        "source": "https://www.penguin.co.uk/books/35192/capital-by-karl-marx-intro-ernest-mandel-trans-ben-fowkes/9780140445688"
+      }
+    },
+    {
+      "title": "Charlie Munger: The Complete Investor",
+      "author": "Tren Griffin",
+      "category": "Personal Finance & Investing",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8880601-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20227372W"
+      }
+    },
+    {
+      "title": "Chip War: The Fight for the World's Most Critical Technology",
+      "author": "Chris Miller",
+      "category": "Business",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/12968901-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL27846746W"
+      }
+    },
+    {
+      "title": "Chipping: The New Stock Market Method For Surviving Turbulence And Hitting A Hole-In-One",
+      "author": "Harlan D. Platt",
+      "category": "Personal Finance & Investing",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/1699640-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL8247029W"
+      }
+    },
+    {
+      "title": "Collapse: How Societies Choose to Fail or Succeed: Revised Edition",
+      "author": "Jared Diamond",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/12915198-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL276557W"
+      }
+    },
+    {
+      "title": "Confessions Of An Economics Hit Man",
+      "author": "John Perkins",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/13977093-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL2693772W"
+      }
+    },
+    {
+      "title": "Consider the Lobster and Other Essays",
+      "author": "David Foster Wallace",
+      "category": "Misc. Non-fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/188471-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL2943594W"
+      }
+    },
+    {
+      "title": "Contours of Descent: U.S. Economic Fractures and the Landscape of Global Austerity",
+      "author": "Robert Polin",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/895607-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL1844335W"
+      }
+    },
+    {
+      "title": "Death of a Salesman",
+      "author": "Arthur Miller",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9254686-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL66346W"
+      }
+    },
+    {
+      "title": "Death to the BCS: The Definitive Case Against The Bowl Championship Series",
+      "author": "Dan Wetzel, Josh Peter, Jeff Passan",
+      "category": "Sports",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6624685-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL15403242W"
+      }
+    },
+    {
+      "title": "Decoded",
+      "author": "Jay-Z",
+      "category": "Entertainment",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6671502-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL15481126W"
+      }
+    },
+    {
+      "title": "Deep Tech",
+      "author": "Eric Redmond",
+      "category": "Science",
+      "cover": {
+        "image": "https://images-na.ssl-images-amazon.com/images/P/1544518951.01.L.jpg",
+        "source": "https://books.google.com/books/about/Deep_Tech.html?id=WOdjzgEACAAJ"
+      }
+    },
+    {
+      "title": "Delivering Happiness: A Path to Profits, Passion and Purpose",
+      "author": "Tony Hsieh",
+      "category": "Business",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6956287-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL15582623W"
+      }
+    },
+    {
+      "title": "Democracy in America",
+      "author": "Alexis De Tocqueville",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14942914-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL43173667W"
+      }
+    },
+    {
+      "title": "Destined For War: Can America and China Escape Thucydides's Trap?",
+      "author": "Graham Allison",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8468172-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19354444W"
+      }
+    },
+    {
+      "title": "Devil Take the Hindmost: A History of Financial Speculation",
+      "author": "Edward Chancellor",
+      "category": "Personal Finance & Investing",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/222892-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL8034211W"
+      }
+    },
+    {
+      "title": "Diamond Dollars: The Economics of Winning in Baseball",
+      "author": "Vince Gennard",
+      "category": "Sports",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/1723488-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL8753748W"
+      }
+    },
+    {
+      "title": "Die With Zero: Getting All You Can from Your Money and Your Life",
+      "author": "Bill Perkins",
+      "category": "Business",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10433791-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20756743W"
+      }
+    },
+    {
+      "title": "Do Androids Dream of Electric Sheep?",
+      "author": "Philip K. Dick",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/13681045-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL28816518W"
+      }
+    },
+    {
+      "title": "Dreamstate: A Conspiracy Theory",
+      "author": "Jed McKenna",
+      "category": "Personal Exploration & Skills",
+      "cover": {
+        "image": "https://images-na.ssl-images-amazon.com/images/P/0989175979.01.L.jpg",
+        "source": "https://www.betterworldbooks.com/product/detail/dreamstate-a-conspiracy-theory-9780989175975/new"
+      }
+    },
+    {
+      "title": "E.A.R.L.: The Autobiography of DMX",
+      "author": "Smokey Fontaine",
+      "category": "Entertainment",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/41058-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17025019W"
+      }
+    },
+    {
+      "title": "Emergent Tokyo: Designing the Spontaneous City",
+      "author": "Jorge Almazán , Joe McReynolds, Naoki Saito",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://oroeditions.com/wp-content/uploads/2020/03/Emergent-Tokyo-grid-2.jpg",
+        "source": "https://oroeditions.com/product/emergent-tokyo"
+      }
+    },
+    {
+      "title": "Empire of Pain: The Secret History of the Sackler Dynasty",
+      "author": "Patrick Radden Keefe",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10678221-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL24218388W"
+      }
+    },
+    {
+      "title": "Essentialism: The Disciplined Pursuit of Less",
+      "author": "Greg McKeown",
+      "category": "Personal Exploration & Skills",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7285986-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17043626W"
+      }
+    },
+    {
+      "title": "Every Day Is Sunday: How Jerry Jones, Robert Kraft, and Roger Goodell Turned the NFL into a Cultural & Economic Juggernaut",
+      "author": "Ken Belson",
+      "category": "Sports",
+      "cover": {
+        "image": "https://www.hbgacademic.com/wp-content/uploads/2025/06/9781538772553.jpg?w=424",
+        "source": "https://www.hbgacademic.com/titles/ken-belson/every-day-is-sunday/9781538772553/"
+      }
+    },
+    {
+      "title": "Exhalation: Stories",
+      "author": "Ted Chiang",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8793546-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20149336W"
+      }
+    },
+    {
+      "title": "Extraordinary Popular Delusions And The Madness Of Crowds",
+      "author": "Charles MacKay",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/713129-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL8034276W"
+      }
+    },
+    {
+      "title": "Fair Pay: How To Get a Raise, Close the Wage Gap, and Build Stronger Businesses",
+      "author": "David Buckmaster",
+      "category": "Business",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/11531846-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL22011799W"
+      }
+    },
+    {
+      "title": "Fear And Loathing On The Campaign Trail '72",
+      "author": "Hunter S. Thompson",
+      "category": "History & Politics",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7961958-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL158047W"
+      }
+    },
+    {
+      "title": "Flash Boys: A Wall Street Revolt",
+      "author": "Michael Lewis",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8260825-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL16816775W"
+      }
+    },
+    {
+      "title": "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets",
+      "author": "Nassim Nicholas Taleb",
+      "category": "Science",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/855791-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL3295029W"
+      }
+    },
+    {
+      "title": "Foundation",
+      "author": "Isaac Asimov",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14612610-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL46125W"
+      }
+    },
+    {
+      "title": "Freakonomics: A Rogue Economist Explores The Hidden Side Of Everything",
+      "author": "Steven D. Levitt, Stephen J. Dubner",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/11172914-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL278022W"
+      }
+    },
+    {
+      "title": "Gambler: Secrets from a Life at Risk",
+      "author": "Billy Walters",
+      "category": "Sports",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14416142-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL34493639W"
+      }
+    },
+    {
+      "title": "Gambling Man: The Secret Story of the World's Greatest Disruptor, Masayoshi Son",
+      "author": "Lionel Barber",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668070758/gambling-man-9781668070758_hr.jpg",
+        "source": "https://www.simonandschuster.com/books/Gambling-Man/Lionel-Barber/9781668070758"
+      }
+    },
+    {
+      "title": "Genentech: The Beginnings of Biotech",
+      "author": "Sally Smith Hughes",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9430350-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL16262753W"
+      }
+    },
+    {
+      "title": "Going Bigtime: The Spectacular Rise of Umass Basketball",
+      "author": "Marty Dobrow",
+      "category": "Sports",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/1695195-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL8802211W"
+      }
+    },
+    {
+      "title": "Good To Great",
+      "author": "Jim Collins",
+      "category": "Business",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7431270-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL3486275W"
+      }
+    },
+    {
+      "title": "Got Fight? The 50 Zen Principles Of Hand-To-Face Combat",
+      "author": "Forrest Griffin",
+      "category": "Sports",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6302110-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL14993772W"
+      }
+    },
+    {
+      "title": "Grantland: Talk Nerdy To Me",
+      "author": "n/a",
+      "category": "Sports"
+    },
+    {
+      "title": "Grantland: Volume 1",
+      "author": "n/a",
+      "category": "Sports"
+    },
+    {
+      "title": "Gridiron Genius",
+      "author": "Michael Lombardi",
+      "category": "Sports",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://images3.penguinrandomhouse.com/cover/9780525573821",
+        "source": "https://www.penguinrandomhouse.com/books/567325/gridiron-genius-by-michael-lombardi-foreword-by-bill-belichick/"
+      }
+    },
+    {
+      "title": "Griftopia: Bubble Machines, Vampire Squids, and the Long Con That is Breaking America",
+      "author": "Matt Taibbi",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6698397-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL15633488W"
+      }
+    },
+    {
+      "title": "Guns, Germs, And Steel",
+      "author": "Jared Diamond",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7884018-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL276558W"
+      }
+    },
+    {
+      "title": "Hillbilly Elegy: A Memoir of a Family and Culture in Crisis",
+      "author": "J.D. Vance",
+      "category": "History & Politics",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14846900-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17357665W"
+      }
+    },
+    {
+      "title": "Hooked: How TO Build Habit-Forming Products",
+      "author": "Nir Eyal",
+      "category": "Science",
+      "subcategory": "Psychology",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8477209-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19361622W"
+      }
+    },
+    {
+      "title": "House of Fidelity: The Rise of the Johnson Dynasty and the Company That Changed American Investing",
+      "author": "Justin Baer",
+      "category": "Personal Finance & Investing",
+      "cover": {
+        "image": "https://www.hachettebookgroup.com/wp-content/uploads/2026/11/9781538766958.jpg?w=424",
+        "source": "https://www.hachettebookgroup.com/titles/justin-baer/house-of-fidelity/9781538766958/"
+      }
+    },
+    {
+      "title": "House of Huawei: The Secret History of China's Most Powerful Company",
+      "author": "Eva Dou",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://images1.penguinrandomhouse.com/cover/9780593544631",
+        "source": "https://www.penguinrandomhouse.com/books/721789/house-of-huawei-by-eva-dou/9780593544631/"
+      }
+    },
+    {
+      "title": "House Of Lies: How Management Consultants Steal Your Watch And Then Tell You The Time",
+      "author": "Martin Kihn",
+      "category": "Business",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/286480-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL8135486W"
+      }
+    },
+    {
+      "title": "How Adam Smith Can Change Your Life?",
+      "author": "Russ Roberts",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7912808-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17640403W"
+      }
+    },
+    {
+      "title": "How the World Works",
+      "author": "Noam Chomsky, David Barsamian",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7487670-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17392387W"
+      }
+    },
+    {
+      "title": "How to Change Your Mind",
+      "author": "Michael Pollan",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8805168-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20159801W"
+      }
+    },
+    {
+      "title": "How To Stop Worrying and Start Living",
+      "author": "Dale Carnegie",
+      "category": "Personal Exploration & Skills",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10829208-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL1063338W"
+      }
+    },
+    {
+      "title": "If Anyone Builds It, Everyone Dies: Why Superhuman AI Would Kill Us All",
+      "author": "Eliezer Yudkowsky, Nate Soares",
+      "category": "Science",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/15149102-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL42542608W"
+      }
+    },
+    {
+      "title": "Immoderate Greatness: Why Civilizations Fail",
+      "author": "William Ophuls",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10591301-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL24173528W"
+      }
+    },
+    {
+      "title": "Inbound Marketing",
+      "author": "Brian Halligan, Dharmesh Shah",
+      "category": "Personal Exploration & Skills",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6420385-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL13804806W"
+      }
+    },
+    {
+      "title": "Industrial Society and Its Future",
+      "author": "Theodore Kaczynski",
+      "category": "Misc. Non-fiction",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/13196917-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL30140056W"
+      }
+    },
+    {
+      "title": "Infinite Jest",
+      "author": "David Foster Wallace",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8237639-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL2943602W"
+      }
+    },
+    {
+      "title": "Insanely Simple: The Obsession That Drives Apple's Success",
+      "author": "Ken Segall",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8142535-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL16361675W"
+      }
+    },
+    {
+      "title": "It's Better To Be Feared: The New England Patriots Dynasty and the Pursuit of Greatness",
+      "author": "Seth Wickersham",
+      "category": "Sports",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/12289786-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL25285792W"
+      }
+    },
+    {
+      "title": "Jesse Livermore - Boy Plunger",
+      "author": "Tom Rubython",
+      "category": "Personal Finance & Investing",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/13800996-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL28661964W"
+      }
+    },
+    {
+      "title": "John Stuart Mill Autobiography",
+      "author": "John Stuart Mill",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8982998-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL1068072W"
+      }
+    },
+    {
+      "title": "Just Do It: The Nike Spirit in the Corporate World",
+      "author": "Donald Katz",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/783233-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL3526144W"
+      }
+    },
+    {
+      "title": "Kicking the Hornets Nest",
+      "author": "Satoshi Nakamoto",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://assets.lulu.com/cover_thumbs/p/6/p6yeg7k-front-shortedge-384.jpg",
+        "source": "https://www.lulu.com/shop/mill-hill-books/kicking-the-hornets-nest/paperback/product-p6yeg7k.html"
+      }
+    },
+    {
+      "title": "Learn Agile",
+      "author": "Andrew Stellman, Jennifer Greene",
+      "category": "Personal Exploration & Skills",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7361129-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17188967W"
+      }
+    },
+    {
+      "title": "Lee Kuan Yew: The Grand Master's Insights on China, the United States, and the World",
+      "author": "Graham Allison",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7285172-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17038308W"
+      }
+    },
+    {
+      "title": "Leonardo Da Vinci",
+      "author": "Walter Isaacson",
+      "category": "History & Politics",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8087691-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17802920W"
+      }
+    },
+    {
+      "title": "Let My People Go Surfing: The Education of a Reluctant Businessman",
+      "author": "Yvon Chouinard",
+      "category": "Business",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6875301-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL16028960W"
+      }
+    },
+    {
+      "title": "Letters from a Stoic",
+      "author": "Lucius Annaeus Seneca",
+      "category": "Personal Exploration & Skills",
+      "subcategory": "Philosophy",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10331283-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL21164707W"
+      }
+    },
+    {
+      "title": "Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX",
+      "author": "Eric Berger",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/11033056-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL21893953W"
+      }
+    },
+    {
+      "title": "Listen, Liberal or What Ever Happened to the Party of The People?",
+      "author": "Thomas Frank",
+      "category": "History & Politics",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://mpd-biblio-covers.imgix.net/9781250118134.jpg",
+        "source": "https://us.macmillan.com/books/9781250118134/listenliberal/"
+      }
+    },
+    {
+      "title": "Living On The Black: Two Pitchers, Two Teams, One Season To Remember",
+      "author": "John Feinstein",
+      "category": "Sports",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/2379217-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL2704145W"
+      }
+    },
+    {
+      "title": "Lost City of the Monkey God",
+      "author": "Douglas Preston",
+      "category": "Entertainment",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8184985-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17876084W"
+      }
+    },
+    {
+      "title": "Make Something Wonderful",
+      "author": "Steve Jobs",
+      "category": "Business",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14819518-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL40360935W"
+      }
+    },
+    {
+      "title": "Man Without a Country",
+      "author": "Kurt Vonnegut",
+      "category": "Misc. Non-fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/488595-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL15006670W"
+      }
+    },
+    {
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "category": "Personal Exploration & Skills",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8513458-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL1268413W"
+      }
+    },
+    {
+      "title": "Margin of Safety",
+      "author": "Seth Klarman",
+      "category": "Personal Finance & Investing",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8042651-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL4108209W"
+      }
+    },
+    {
+      "title": "May The Best Team Win: Baseball Economics and Public Policy",
+      "author": "Andrew Zimbalist",
+      "category": "Sports",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/614024-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL7992591W"
+      }
+    },
+    {
+      "title": "Mayor for A New America",
+      "author": "Thomas Menino",
+      "category": "History & Politics",
+      "subcategory": "Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9734717-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19992803W"
+      }
+    },
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "category": "Personal Exploration & Skills",
+      "subcategory": "Philosophy",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/211529-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL1317211W"
+      }
+    },
+    {
+      "title": "Mindfulness in Plain English",
+      "author": "Bhante Gunaratana",
+      "category": "Personal Exploration & Skills",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/652683-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL8666082W"
+      }
+    },
+    {
+      "title": "Moneyball",
+      "author": "Michael Lewis",
+      "category": "Sports",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/467718-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL7944813W"
+      }
+    },
+    {
+      "title": "Moneymaker: How And Amateur Poker Player Turned $40 Into $2.5M",
+      "author": "Chris Moneymaker",
+      "category": "Entertainment",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/34986-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL275808W"
+      }
+    },
+    {
+      "title": "My Life",
+      "author": "Bill Clinton",
+      "category": "History & Politics",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/227454-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19486W"
+      }
+    },
+    {
+      "title": "Nine Stories",
+      "author": "J.D. Salinger",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/392623-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL3335290W"
+      }
+    },
+    {
+      "title": "No Man Knows My History: The Life of Joseph Smith",
+      "author": "Fawn M. Brodie",
+      "category": "History & Politics",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/420053-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL4482315W"
+      }
+    },
+    {
+      "title": "Not Accountable: Rethinking the Constitutionality of Public Employee Unions",
+      "author": "Philip K. Howard",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/13195362-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL28449514W"
+      }
+    },
+    {
+      "title": "Notes from Underground",
+      "author": "Fyodor Dostoevsky",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14830484-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL21025633W"
+      }
+    },
+    {
+      "title": "Nuclear War: A Scenario",
+      "author": "Nuclear War: A Scenario",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14601155-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL38364901W"
+      }
+    },
+    {
+      "title": "Objective Knowledge: An Evolutionary Approach",
+      "author": "Karl Popper",
+      "category": "Science",
+      "subcategory": "Philosophy",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/13451952-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL1984562W"
+      }
+    },
+    {
+      "title": "On Liberty",
+      "author": "John Stuart Mill",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14914109-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL43077051W"
+      }
+    },
+    {
+      "title": "On the Edge: The Art of Risking Everything",
+      "author": "Nate Silver",
+      "category": "Personal Finance & Investing",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14658251-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL37768334W"
+      }
+    },
+    {
+      "title": "One Up On Wall Street",
+      "author": "Peter Lynch",
+      "category": "Personal Finance & Investing",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6241104-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL2841891W"
+      }
+    },
+    {
+      "title": "Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company",
+      "author": "Andrew S. Grove",
+      "category": "Business",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/241061-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL2355832W"
+      }
+    },
+    {
+      "title": "Out of Mao's Shadow",
+      "author": "Philip P. Pan",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/5432534-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL9740720W"
+      }
+    },
+    {
+      "title": "Outliers",
+      "author": "Malcolm Gladwell",
+      "category": "Science",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10021591-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL5749847W"
+      }
+    },
+    {
+      "title": "Outlive: The Science and Art of Longevity",
+      "author": "Peter Attia",
+      "category": "Science",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/13191259-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL28148070W"
+      }
+    },
+    {
+      "title": "Pace Layers",
+      "author": "Long Now Foundation",
+      "category": "Misc. Non-fiction",
+      "cover": {
+        "image": "https://shop.longnow.org/cdn/shop/files/shop-pacelayers.jpg?v=1762979064",
+        "source": "https://shop.longnow.org/products/pacelayers-02025"
+      }
+    },
+    {
+      "title": "Pay for Results: Aligning Executive Compensation with Business Performance",
+      "author": "n/a",
+      "category": "Business"
+    },
+    {
+      "title": "Pay Without Performance: The Unfulfilled Promise of Executive Compensation",
+      "author": "Lucian Bebchuk, Jesse Fried",
+      "category": "Business",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/1336115-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL21006122W"
+      }
+    },
+    {
+      "title": "Pay: Why People Earn What They Earn And What You Can Do Now To Make More",
+      "author": "Kevin F. Hallock",
+      "category": "Business",
+      "cover": {
+        "image": "https://images-na.ssl-images-amazon.com/images/P/1107014980.01.L.jpg",
+        "source": "https://www.cambridge.org/core/books/pay/37D96AD10099DEC3CA0CDA52096E6BA0"
+      }
+    },
+    {
+      "title": "Playing For Keeps",
+      "author": "David Halberstam",
+      "category": "Sports",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/417560-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL109595W"
+      }
+    },
+    {
+      "title": "Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger",
+      "author": "Charles T. Munger",
+      "category": "Personal Exploration & Skills",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8337563-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL8928012W"
+      }
+    },
+    {
+      "title": "Powerful: Building a Culture of Freedom and Responsibility",
+      "author": "Patty McCord",
+      "category": "Business",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10720773-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL21153780W"
+      }
+    },
+    {
+      "title": "Powerhouse: The Untold Story of Hollywood's Creative Artists Agency",
+      "author": "James Andrew Miller",
+      "category": "Entertainment",
+      "subcategory": "Oral History",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8845742-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20196003W"
+      }
+    },
+    {
+      "title": "Predictably Irrational: The Hidden Forces That Share Our Decisions",
+      "author": "Dan Ariely",
+      "category": "Science",
+      "subcategory": "Psychology",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9033558-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20366709W"
+      }
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austin",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/12645114-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL66554W"
+      }
+    },
+    {
+      "title": "Principles",
+      "author": "Ray Dalio",
+      "category": "Business",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8315355-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL18147675W"
+      }
+    },
+    {
+      "title": "Principles for Dealing with the Changing World Order",
+      "author": "Ray Dalio",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/12725957-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL21912973W"
+      }
+    },
+    {
+      "title": "Principles for Navigating Big Debt  Crises",
+      "author": "Ray Dalio",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/11980955-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL21718768W"
+      }
+    },
+    {
+      "title": "Principles of Corporate Renewal",
+      "author": "Harlan D. Platt",
+      "category": "Business",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/1254437-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL8247030W"
+      }
+    },
+    {
+      "title": "Product Leadership",
+      "author": "Richard Banfield",
+      "category": "Business",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/13161226-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19711093W"
+      }
+    },
+    {
+      "title": "Pursing The Competitive Edge",
+      "author": "Robert Hayes, Gary Pisano, David Upton, Steven Wheelwright",
+      "category": "Business",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14327557-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL18206156W"
+      }
+    },
+    {
+      "title": "Read Write Own",
+      "author": "Chris Dixon",
+      "category": "Business",
+      "cover": {
+        "image": "https://images3.penguinrandomhouse.com/cover/9780593731390",
+        "source": "https://www.penguinrandomhouse.com/books/744504/read-write-own-by-chris-dixon/9780593731390/"
+      }
+    },
+    {
+      "title": "Reality Is Not What It Seems: The Journey to Quantum Gravity",
+      "author": "Carlo Rovelli",
+      "category": "Science",
+      "subcategory": "Physics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9269326-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19655822W"
+      }
+    },
+    {
+      "title": "Reminiscences of a Stock Operator",
+      "author": "Edwin Lefevre",
+      "category": "Personal Finance & Investing",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/300533-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL3472215W"
+      }
+    },
+    {
+      "title": "Return to the Little Kingdom",
+      "author": "Michael Moritz",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6671375-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL15186024W"
+      }
+    },
+    {
+      "title": "Same as Ever: A Guide to What Never Changes",
+      "author": "Morgan Housel",
+      "category": "Personal Finance & Investing",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14157635-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL35156586W"
+      }
+    },
+    {
+      "title": "San Fransicko: Why Progressives Ruin Cities",
+      "author": "Michael Shellenberger",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/12499100-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL25907233W"
+      }
+    },
+    {
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8634250-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17075811W"
+      }
+    },
+    {
+      "title": "Scorecasting: The Hidden Influences Behind How Sports Are Played And Games Are Won",
+      "author": "Tobias J. Moskowitz, L. Jon Wetheim",
+      "category": "Sports",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6944352-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL15663815W"
+      }
+    },
+    {
+      "title": "Seth Klarman: Margin of Safety, Master of Value",
+      "author": "Katrine Koss",
+      "category": "Personal Finance & Investing",
+      "subcategory": "Profile"
+    },
+    {
+      "title": "Shoe Dog",
+      "author": "Phil Knight",
+      "category": "Business",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8858487-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17825802W"
+      }
+    },
+    {
+      "title": "Ski, Inc. 2020",
+      "author": "Chris Diamond",
+      "category": "Business",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/11292411-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL24620898W"
+      }
+    },
+    {
+      "title": "Skin in the Game: Hidden Asymmetries in Daily Life",
+      "author": "Nassim Nicholas Taleb",
+      "category": "Science",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10856868-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17887158W"
+      }
+    },
+    {
+      "title": "Snow Crash",
+      "author": "Neal Stephenson",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/392508-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL38501W"
+      }
+    },
+    {
+      "title": "Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin",
+      "author": "Jason Paul Lowery",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://www.worldofbooks.com/cdn/shop/files/B0BW358F37.jpg?v=1750969770",
+        "source": "https://www.worldofbooks.com/en-gb/products/softwar-book-jason-paul-lowery-9798371524188"
+      }
+    },
+    {
+      "title": "Start Something That Matters",
+      "author": "Blake Mycoskie",
+      "category": "Business",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8117576-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL15921525W"
+      }
+    },
+    {
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "category": "Business",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/12374726-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL16085155W"
+      }
+    },
+    {
+      "title": "Steve Jobs & the NeXT Big Thing",
+      "author": "Randall E. Stross",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/3942352-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL3279502W"
+      }
+    },
+    {
+      "title": "Strength Training Anatomy",
+      "author": "Frederic Delavier",
+      "category": "Science",
+      "cover": {
+        "image": "https://us.humankinetics.com/cdn/shop/files/9781718214866_3ec0dfa6-2759-4c94-8793-f64d6012c7c3.jpg?v=1791875068&width=1214",
+        "source": "https://us.humankinetics.com/products/strength-training-anatomy-4th-edition"
+      }
+    },
+    {
+      "title": "Stubborn Attachments",
+      "author": "Tyler Cowen",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/12385566-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL26422034W"
+      }
+    },
+    {
+      "title": "Sum: Forty Tales from the Afterlives",
+      "author": "David Eagleman",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9584588-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL11958215W"
+      }
+    },
+    {
+      "title": "Superintelligence: Paths, Dangers, Strategies",
+      "author": "Nick Bostrom",
+      "category": "Science",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8039542-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17319280W"
+      }
+    },
+    {
+      "title": "Surely You're Joking, Mr. Feynman",
+      "author": "Richard Feynman",
+      "category": "Science",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9274698-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL514629W"
+      }
+    },
+    {
+      "title": "The 4-Hour Body",
+      "author": "Timothy Ferriss",
+      "category": "Personal Exploration & Skills",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6673523-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL15578776W"
+      }
+    },
+    {
+      "title": "The 5 Types of Wealth: A Transformative Guide to Design Your Dream Life",
+      "author": "Sahil Bloom",
+      "category": "Personal Exploration & Skills",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14857440-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL42402814W"
+      }
+    },
+    {
+      "title": "The AirBNB Story",
+      "author": "Leigh Gallagher",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8133669-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17838611W"
+      }
+    },
+    {
+      "title": "The Alchemy of Finance",
+      "author": "George Soros",
+      "category": "Personal Finance & Investing",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/4115861-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL1993774W"
+      }
+    },
+    {
+      "title": "The Baseball Uncyclopedia",
+      "author": "Michael Kun, Howard Bloom",
+      "category": "Sports",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/835573-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL4800527W"
+      }
+    },
+    {
+      "title": "The Bed of Procrustes: Philosophical and Practical Aphorisms",
+      "author": "Nassim Nicholas Taleb",
+      "category": "Personal Exploration & Skills",
+      "subcategory": "Philosophy",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7990308-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL15538467W"
+      }
+    },
+    {
+      "title": "The Bible - Book of Exodus",
+      "author": "Unknown",
+      "category": "Religion"
+    },
+    {
+      "title": "The Bible - Book of Genesis",
+      "author": "Unknown",
+      "category": "Religion"
+    },
+    {
+      "title": "The Big Miss: My Years Coaching Tiger Woods",
+      "author": "Hank Haney",
+      "category": "Sports",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14416701-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19952394W"
+      }
+    },
+    {
+      "title": "The Big Picture: On the origins of life, meaning, and the universe itself",
+      "author": "Sean Carroll",
+      "category": "Science",
+      "subcategory": "Physics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7885928-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17599854W"
+      }
+    },
+    {
+      "title": "The Billion Dollar Molecule: One Company's Quest for the Perfect Drug",
+      "author": "Barry Werth",
+      "category": "Science",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/405799-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL2719754W"
+      }
+    },
+    {
+      "title": "The Bitcoin Standard",
+      "author": "Saifedean Ammous",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/15226011-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19737774W"
+      }
+    },
+    {
+      "title": "The Boiling Moat: Urgent Steps to Defend Taiwan",
+      "author": "Matt Pottinger",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://hoover-s3-website.s3.us-west-2.amazonaws.com/s3fs-public/2024-04/BoilingMoat_web_redesign.jpg",
+        "source": "https://hooverpress.bookstore.ipgbook.com/the-boiling-moat-products-9780817926489.php"
+      }
+    },
+    {
+      "title": "The Breakthrough: Immunotherapy and the Race to Cure Cancer",
+      "author": "Charles Graeber",
+      "category": "Science",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/12100586-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20624759W"
+      }
+    },
+    {
+      "title": "The Catcher In The Rye",
+      "author": "J.D. Salinger",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9273490-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL3335245W"
+      }
+    },
+    {
+      "title": "The CEO Pay Machine",
+      "author": "Steven Clifford",
+      "category": "Business",
+      "cover": {
+        "image": "https://images.penguinrandomhouse.com/cover/9780735212398",
+        "source": "https://www.porchlightbooks.com/products/ceo-pay-machine-steven-clifford-9780735212398"
+      }
+    },
+    {
+      "title": "The Clock of The Long Now: Time and Responsibility",
+      "author": "Stewart Brand",
+      "category": "Science",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7877514-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL823145W"
+      }
+    },
+    {
+      "title": "The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure",
+      "author": "Greg Lukianoff, Jonathan Haidt",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10138103-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19664112W"
+      }
+    },
+    {
+      "title": "The Collapse of Complex Societies",
+      "author": "Joseph Tainter",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8460196-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL4741769W"
+      }
+    },
+    {
+      "title": "The Complete Stories of Isaac Asimov",
+      "author": "Isaac Asimov",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/13790256-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL14959025W"
+      }
+    },
+    {
+      "title": "The Cost of These Dreams: Sports Stories and Other Serious Business",
+      "author": "Wright Thompson",
+      "category": "Sports",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8798081-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20153211W"
+      }
+    },
+    {
+      "title": "The Courage to Be Disliked",
+      "author": "Ichiro Kishimi",
+      "category": "Personal Exploration & Skills",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/15129220-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19744000W"
+      }
+    },
+    {
+      "title": "The Death of Public School",
+      "author": "Cara Fitzpatrick",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14714813-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL34053417W"
+      }
+    },
+    {
+      "title": "The Decline and Fall of the Roman Empire: Volume I",
+      "author": "Edward Gibbon",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/13274653-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL31488473W"
+      }
+    },
+    {
+      "title": "The Deficit Myth",
+      "author": "Stephanie Kelton",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9388252-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20709672W"
+      }
+    },
+    {
+      "title": "The Doors of Perception",
+      "author": "Aldous Huxley",
+      "category": "Personal Exploration & Skills",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6622313-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL64441W"
+      }
+    },
+    {
+      "title": "The Dorito Effect: The Surprising New Truth About Food and Flavor",
+      "author": "Mark Schatzker",
+      "category": "Science",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8782604-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19667961W"
+      }
+    },
+    {
+      "title": "The End of History and the Last Man",
+      "author": "Francis Fukuyama",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/18768-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL2670501W"
+      }
+    },
+    {
+      "title": "The Federalist Papers",
+      "author": "Charles R. Kesler",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/12130852-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL284420W"
+      }
+    },
+    {
+      "title": "The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14627060-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL27513W"
+      }
+    },
+    {
+      "title": "The Fountainhead",
+      "author": "Ayn Rand",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/13730003-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL32423092W"
+      }
+    },
+    {
+      "title": "The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny",
+      "author": "William Strauss, Neil Howe",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/367879-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL3289628W"
+      }
+    },
+    {
+      "title": "The Google Story",
+      "author": "David A. Vise",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6395681-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL4079406W"
+      }
+    },
+    {
+      "title": "The Great Depression: A Diary",
+      "author": "Benjamin Roth",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9338546-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20670062W"
+      }
+    },
+    {
+      "title": "The Great Stagnation",
+      "author": "Tyler Cowen",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7839953-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17569194W"
+      }
+    },
+    {
+      "title": "The Greatest Trade Ever: The Behind-The-Scenes Story Of How John Paulson Defied Wall Street",
+      "author": "Gregory Zuckerman",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6409995-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL13852507W"
+      }
+    },
+    {
+      "title": "The Hard Thing About Hard Things",
+      "author": "Ben Horowitz",
+      "category": "Business",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7279515-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL16818208W"
+      }
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8406766-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL219602W"
+      }
+    },
+    {
+      "title": "The Hundred-Year Marathon: China's Secret Strategy to Replace America as the Global Superpower",
+      "author": "Michael Pillsbury",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10234261-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19994559W"
+      }
+    },
+    {
+      "title": "The Innovator's Dilemma",
+      "author": "Clayton M. Christensen",
+      "category": "Business",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9274687-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL1999873W"
+      }
+    },
+    {
+      "title": "The Intelligent Investor",
+      "author": "Benjamin Graham",
+      "category": "Personal Finance & Investing",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/36434-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL273184W"
+      }
+    },
+    {
+      "title": "The Joy Of Less",
+      "author": "Francine Jay",
+      "category": "Personal Exploration & Skills",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/11659707-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL16239008W"
+      }
+    },
+    {
+      "title": "The Last Season",
+      "author": "Phil Jackson",
+      "category": "Sports",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/872263-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL4519996W"
+      }
+    },
+    {
+      "title": "The Mamba Mentality",
+      "author": "Kobe Bryant",
+      "category": "Sports",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9261036-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19754799W"
+      }
+    },
+    {
+      "title": "The Managerial Revolution: What is Happening in the World",
+      "author": "James Burnham",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/15011243-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL43114996W"
+      }
+    },
+    {
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/12820198-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL498556W"
+      }
+    },
+    {
+      "title": "The Network State: How To Start a New Country",
+      "author": "Balaji Srinivasan",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14569476-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL37531110W"
+      }
+    },
+    {
+      "title": "The Number: How the Drive for Quarterly Earning Corrupted Wall Street and Corporate America",
+      "author": "Alex Berenson",
+      "category": "Business",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6873396-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL16026526W"
+      }
+    },
+    {
+      "title": "The Nvidia Way: Jensen Huang and the Making of a Tech Giant",
+      "author": "Tae Kim",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://cdn2.wwnorton.com/wwnproducts/TRADE/0/1/9781324086710/9781324086710_300.jpg",
+        "source": "https://wwnorton.com/books/9781324086710"
+      }
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/15028634-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL32939015W"
+      }
+    },
+    {
+      "title": "The Phoenix Effect",
+      "author": "Carter Pate, Harlan Platt",
+      "category": "Business",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/300545-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17643667W"
+      }
+    },
+    {
+      "title": "The Price of Time: The Real Story of Interest",
+      "author": "Edward Chancellor",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/13141027-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL26352669W"
+      }
+    },
+    {
+      "title": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/13345917-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL21456413W"
+      }
+    },
+    {
+      "title": "The Prize: The Epic Quest for Oil, Money & Power",
+      "author": "Daniel Yergin",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/409010-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL2748135W"
+      }
+    },
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "category": "Personal Finance & Investing",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10389354-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL21640039W"
+      }
+    },
+    {
+      "title": "The Rap Yearbook",
+      "author": "Shea Serrano",
+      "category": "Entertainment",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9909968-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19670864W"
+      }
+    },
+    {
+      "title": "The Rational Optimist: How Prosperity Evolves",
+      "author": "Matt Ridley",
+      "category": "Science",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7024445-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL14928967W"
+      }
+    },
+    {
+      "title": "The Ride of A Lifetime",
+      "author": "Robert Iger",
+      "category": "Business",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8788773-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20140592W"
+      }
+    },
+    {
+      "title": "The Road to Serfdom",
+      "author": "Friedrich Hayek",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/13184244-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL29314665W"
+      }
+    },
+    {
+      "title": "The Roving Mind",
+      "author": "Isaac Asimov",
+      "category": "Misc. Non-fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9304107-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL46307W"
+      }
+    },
+    {
+      "title": "The Scaling Era: An Oral History of AI, 2019 - 2025",
+      "author": "Dwarkesh Patel, Gavin Leech",
+      "category": "Science",
+      "cover": {
+        "image": "https://images-na.ssl-images-amazon.com/images/P/1953953557.01.L.jpg",
+        "source": "https://press.stripe.com/scaling"
+      }
+    },
+    {
+      "title": "The Search: How Google And Its Rivals Rewrote The Rules Of Business And Transformed Our Culture",
+      "author": "John Battelle",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7869353-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17584321W"
+      }
+    },
+    {
+      "title": "The Secret",
+      "author": "Rhonda Byrne",
+      "category": "Personal Exploration & Skills",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/845815-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL15839737W"
+      }
+    },
+    {
+      "title": "The Signal And The Noise: Why So Many Prediction Fail But Some Don't",
+      "author": "Nate Silver",
+      "category": "Science",
+      "subcategory": "Math & Statistics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7256893-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL16700318W"
+      }
+    },
+    {
+      "title": "The Singularity Is Near: When Humans Transcend Biology",
+      "author": "Ray Kurzweil",
+      "category": "Science",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/400518-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL1958850W"
+      }
+    },
+    {
+      "title": "The Sovereign Individual",
+      "author": "James Dale Davidson, William Rees-Mogg",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/425227-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL3350985W"
+      }
+    },
+    {
+      "title": "The Space Barons",
+      "author": "Christian Davenport",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9167513-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19738307W"
+      }
+    },
+    {
+      "title": "The Technological Republic: Hard Power, Soft Belief, and the Future of the West",
+      "author": "Alexander C. Karp, Nicholas W. Zamiska",
+      "category": "Business",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/15101498-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL42426442W"
+      }
+    },
+    {
+      "title": "The Tell-Tale Heart and Other Stories",
+      "author": "Edgar Allan Poe",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8399175-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL25009175W"
+      }
+    },
+    {
+      "title": "The Thank You Economy",
+      "author": "Gary Vaynerchuk",
+      "category": "Business",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7663910-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17481051W"
+      }
+    },
+    {
+      "title": "The Three-Body Problem",
+      "author": "Cixin Liu, Ken Liu",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9157544-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17267881W"
+      }
+    },
+    {
+      "title": "The Tipping Point",
+      "author": "Malcolm Gladwell",
+      "category": "Science",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10873292-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL5749848W"
+      }
+    },
+    {
+      "title": "The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind",
+      "author": "Dan Davies",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/15219579-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL37568651W"
+      }
+    },
+    {
+      "title": "The Winner Within: A Life Plan for Team Players",
+      "author": "Pat Riley",
+      "category": "Sports",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/6576031-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL15156470W"
+      }
+    },
+    {
+      "title": "The Witches: Salem, 1692",
+      "author": "Stacy Schiff",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7377438-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17269256W"
+      }
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "author": "Jordan Belfort",
+      "category": "Personal Finance & Investing",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/374261-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL8383186W"
+      }
+    },
+    {
+      "title": "The World Is Flat: A Brief History of the Twenty-first Century",
+      "author": "Thomas L. Friedman",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10160383-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL3740416W"
+      }
+    },
+    {
+      "title": "Thinking in Bets",
+      "author": "Annie Duke",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8792782-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19736287W"
+      }
+    },
+    {
+      "title": "Thinking Slow and Fast",
+      "author": "Daniel Kahneman",
+      "category": "Science",
+      "subcategory": "Psychology",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/7889800-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL15992072W"
+      }
+    },
+    {
+      "title": "This Is Your Mind on Plants",
+      "author": "Michael Pollan",
+      "category": "Science",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10512625-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL23527042W"
+      }
+    },
+    {
+      "title": "This Phenomenal Life",
+      "author": "Misha Maynerick Blaise",
+      "category": "Personal Exploration & Skills",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8314443-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL18146854W"
+      }
+    },
+    {
+      "title": "Those Guys Have All The Fun: Inside The World of ESPN",
+      "author": "James Andrew Miller, Tom Shales",
+      "category": "Entertainment",
+      "subcategory": "Oral History",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/11729072-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19947575W"
+      }
+    },
+    {
+      "title": "Through the Looking Glass",
+      "author": "Lewis Carroll",
+      "category": "Fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/15183869-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL45018463W"
+      }
+    },
+    {
+      "title": "Tired of Winning: Donald Trump and the End of the Grand Old Party",
+      "author": "Jonathan Karl",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14538955-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL35815364W"
+      }
+    },
+    {
+      "title": "To Sell Is Human: The Surprising Truth About Moving Others",
+      "author": "Daniel H. Punk",
+      "category": "Science",
+      "subcategory": "Psychology",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10297418-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20924665W"
+      }
+    },
+    {
+      "title": "U.S. Constitution and Other Key American Writings",
+      "author": "Founding Fathers",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8950720-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20292174W"
+      }
+    },
+    {
+      "title": "Uncontrolled Spread: Why COVID-19 Crushed Us and How We Can Defeat the Next Pandemic",
+      "author": "Scott Gottlieb",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/11477300-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL24739271W"
+      }
+    },
+    {
+      "title": "Understanding Executive Compensation: A Practical Guide for Decision Makers",
+      "author": "Irving S. Becker, William M. Gereck",
+      "category": "Personal Exploration & Skills",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/14528683-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL31539942W"
+      }
+    },
+    {
+      "title": "Unequal Health: How Inequality Contributes To Health Or Illness",
+      "author": "Grace Budrys",
+      "category": "Business",
+      "subcategory": "Economics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9157056-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL13630831W"
+      }
+    },
+    {
+      "title": "Unit X: How the Pentagon and Silicon Valley Are Transforming the Future of War",
+      "author": "Raj M. Shah, Christopher Kirchhoff",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/15160651-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL37625401W"
+      }
+    },
+    {
+      "title": "Unmasked",
+      "author": "Andy Ngo",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/10183014-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL20865567W"
+      }
+    },
+    {
+      "title": "Unshakeable: Your Financial Freedom Playbook",
+      "author": "Tony Robbins",
+      "category": "Personal Finance & Investing",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8814861-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17639677W"
+      }
+    },
+    {
+      "title": "Upper Left Cities: A Cultural Atlas of San Francisco, Portland, and Seattle",
+      "author": "Hunter Shobe , David Banis",
+      "category": "Misc. Non-fiction",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/12321168-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL21890286W"
+      }
+    },
+    {
+      "title": "Venture Deals: Be Smarter than your Lawyer and Venture Capitalist",
+      "author": "Brad Feld, Jason Mendelson",
+      "category": "Business",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8732100-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL16134369W"
+      }
+    },
+    {
+      "title": "War Room: Legacy of Bill Belichick and the Art of Building the Perfect Team",
+      "author": "Michael Holley",
+      "category": "Sports",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/13166276-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19948713W"
+      }
+    },
+    {
+      "title": "What the Anti-Federalists Were For",
+      "author": "Herbert J. Storing",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/143161-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL3489437W"
+      }
+    },
+    {
+      "title": "What Works on Wall Street",
+      "author": "James P. O'Shaughnessy",
+      "category": "Personal Finance & Investing",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/55001-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL1817896W"
+      }
+    },
+    {
+      "title": "What's Our Problem?: A Self-Help Book for Societies",
+      "author": "Tim Urban",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/13323691-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL34489497W"
+      }
+    },
+    {
+      "title": "Where Are the Customers' Yachts? Or A Good Hard Look at Wall Street",
+      "author": "Fred Schwed",
+      "category": "Personal Finance & Investing",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/306898-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL3516563W"
+      }
+    },
+    {
+      "title": "Where'd You Get Those?",
+      "author": "Bobbito Garcia",
+      "category": "Entertainment",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/13561883-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL19709676W"
+      }
+    },
+    {
+      "title": "While America Aged",
+      "author": "Roger Lowenstein",
+      "category": "History & Politics",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/11555577-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL24793240W"
+      }
+    },
+    {
+      "title": "Who Knew",
+      "author": "Barry Diller",
+      "category": "Business",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668096871/who-knew-9781668096871_hr.jpg",
+        "source": "https://www.simonandschuster.com/books/Who-Knew/Barry-Diller/9781668096871"
+      }
+    },
+    {
+      "title": "Wild Ride: Inside Uber's Quest for World Domination",
+      "author": "Adam Lashinsky",
+      "category": "Business",
+      "subcategory": "Profile",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/8111915-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17821432W"
+      }
+    },
+    {
+      "title": "Work Rules! Insights from Inside Google",
+      "author": "Laszlo Buck",
+      "category": "Business",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://www.hachettebookgroup.com/wp-content/uploads/2026/02/9781455554812.jpg?w=420",
+        "source": "https://www.hachettebookgroup.com/titles/laszlo-bock/work-rules/9781455554812/"
+      }
+    },
+    {
+      "title": "Zero to One: Notes on Startups, or How to Build the Future",
+      "author": "Peter Thiel",
+      "category": "Business",
+      "subcategory": "Memoir",
+      "cover": {
+        "image": "https://covers.openlibrary.org/b/id/9002334-M.jpg?default=false",
+        "source": "https://openlibrary.org/works/OL17078706W"
+      }
+    }
+  ]
+}

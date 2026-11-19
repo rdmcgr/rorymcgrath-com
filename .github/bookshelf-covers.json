@@ -1,0 +1,1667 @@
+{
+  "version": 1,
+  "covers": [
+    {
+      "title": "1776",
+      "author": "David McCullough",
+      "coverId": 541237,
+      "workId": "OL2820748W"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "coverId": 10541663,
+      "workId": "OL24143668W"
+    },
+    {
+      "title": "1929: Inside the Greatest Crash in Wall Street History and How It Shattered a Nation",
+      "author": "Andrew Ross Sorkin",
+      "coverId": 15161980,
+      "workId": "OL44551395W"
+    },
+    {
+      "title": "7 Powers: The Foundations of Business Strategy",
+      "author": "Hamilton Helmer",
+      "coverId": 10208801,
+      "workId": "OL20883142W"
+    },
+    {
+      "title": "A Brief History Of Time",
+      "author": "Stephen Hawking",
+      "coverUrl": "https://images.penguinrandomhouse.com/cover/9780553380163",
+      "sourceUrl": "https://penguinrandomhouselibrary.com/book/?isbn=9780553380163"
+    },
+    {
+      "title": "A City So Grand: The Rise of an American Metropolis, Boston 1850-1900",
+      "author": "Stephen Puleo",
+      "coverId": 12186749,
+      "workId": "OL15327130W"
+    },
+    {
+      "title": "A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market",
+      "author": "Edward O. Thorp",
+      "coverId": 8822906,
+      "workId": "OL20050810W"
+    },
+    {
+      "title": "A Man Without a Country",
+      "author": "Kurt Vonnegut",
+      "coverId": 488595,
+      "workId": "OL15006670W"
+    },
+    {
+      "title": "A Random Walk Down Wall Street",
+      "author": "Burton G. Malkiel",
+      "coverId": 10328035,
+      "workId": "OL21139737W"
+    },
+    {
+      "title": "A Short History of Nearly Everything",
+      "author": "Bill Bryson",
+      "coverId": 12725620,
+      "workId": "OL74128W"
+    },
+    {
+      "title": "A Short History of The World",
+      "author": "H.G. Wells",
+      "coverId": 12107499,
+      "workId": "OL26149782W"
+    },
+    {
+      "title": "A Supposedly Fun Thing I'll Never Do Again",
+      "author": "David Foster Wallace",
+      "coverId": 191074,
+      "workId": "OL2943597W"
+    },
+    {
+      "title": "A World Appears: A Journey into Consciousness",
+      "author": "Michael Pollan",
+      "coverId": 15182394,
+      "workId": "OL45011996W"
+    },
+    {
+      "title": "Abundance",
+      "author": "Ezra Klein, Derek Thompson",
+      "coverId": 15123873,
+      "workId": "OL42415680W"
+    },
+    {
+      "title": "Alice in Wonderland",
+      "author": "Lewis Carroll",
+      "coverId": 13456478,
+      "workId": "OL25571206W"
+    },
+    {
+      "title": "All The Pieces Matter: The Inside Story of The Wire",
+      "author": "Jonathan Abrams",
+      "coverId": 10513234,
+      "workId": "OL21183840W"
+    },
+    {
+      "title": "All The Rave: The Rise and Fall of Shawn Fanning's Napster",
+      "author": "Joseph Menn",
+      "coverId": 390846,
+      "workId": "OL8198381W"
+    },
+    {
+      "title": "All The Shah's Men: An American Coup And The Roots Of Middle East Terror",
+      "author": "Stephen Kinzer",
+      "coverId": 1240118,
+      "workId": "OL4452488W"
+    },
+    {
+      "title": "America's Bank: The Epic Struggle to Create the Federal Reserve",
+      "author": "Roger Lowenstein",
+      "coverId": 8904004,
+      "workId": "OL17346058W"
+    },
+    {
+      "title": "America's Bitter Pill: The Fight to Fix our Broken Healthcare System",
+      "author": "Steven Brill",
+      "coverId": 11588298,
+      "workId": "OL19662846W"
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "coverId": 11261770,
+      "workId": "OL1168007W"
+    },
+    {
+      "title": "Antifragile: Things that Gain from Disorder",
+      "author": "Nassim Nicholas Taleb",
+      "coverId": 9180157,
+      "workId": "OL16726829W"
+    },
+    {
+      "title": "Apple in China: The Capture of the World's Greatest Company",
+      "author": "Patrick McGee",
+      "coverId": 15151586,
+      "workId": "OL42444717W"
+    },
+    {
+      "title": "Ask Gary Vee",
+      "author": "Gary Vaynerchuk",
+      "coverId": 7913048,
+      "workId": "OL17640584W"
+    },
+    {
+      "title": "Astrophysics for People in a Hurry",
+      "author": "Neil Degrasse Tyson",
+      "coverId": 7984709,
+      "workId": "OL17710047W"
+    },
+    {
+      "title": "At The Edge Of Camelot: Debating Economics In Turbulent Times",
+      "author": "Donald W. Katzner",
+      "coverUrl": "https://global.oup.com/academic/covers/pop-up/9780199765355",
+      "sourceUrl": "https://academic.oup.com/book/8120"
+    },
+    {
+      "title": "Atlas Shrugged",
+      "author": "Ayn Rand",
+      "coverId": 361784,
+      "workId": "OL731644W"
+    },
+    {
+      "title": "Awareness: Conversations with the Masters",
+      "author": "Anthony De Mello",
+      "coverId": 6921944,
+      "workId": "OL16058923W"
+    },
+    {
+      "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+      "author": "John Carreyrou",
+      "coverId": 12735651,
+      "workId": "OL17892614W"
+    },
+    {
+      "title": "Barbarians At The Gate: The Fall Of RJR Nabisco",
+      "author": "Bryan Burrough, John Helyar",
+      "coverId": 4095854,
+      "workId": "OL1975260W"
+    },
+    {
+      "title": "Basketball (And Other Things)",
+      "author": "Shea Serrano",
+      "coverId": 14443559,
+      "workId": "OL19718753W"
+    },
+    {
+      "title": "Beginning of Infinity",
+      "author": "David Deutsch",
+      "coverId": 8622269,
+      "workId": "OL4325174W"
+    },
+    {
+      "title": "Big Business: A Love Letter to an American Anti-Hero",
+      "author": "Tyler Cowen",
+      "coverId": 8802192,
+      "workId": "OL20157100W"
+    },
+    {
+      "title": "Bionomics",
+      "author": "Michael Rothschild",
+      "coverId": 579228,
+      "workId": "OL8243469W"
+    },
+    {
+      "title": "Black Flags: The Rise of ISIS",
+      "author": "Joby Warrick",
+      "coverId": 7390151,
+      "workId": "OL17311140W"
+    },
+    {
+      "title": "Blood  In The Cage: Mixed Martial Arts, Pat Miletich, and the Furious Rise of the UFC",
+      "author": "L. Jon Wertheim",
+      "coverId": 6954305,
+      "workId": "OL6043154W"
+    },
+    {
+      "title": "Blood And Oil: The Dangers And Consequences Of America's Growing Dependency On Importing Petroleum",
+      "author": "Michael T. Klare",
+      "coverId": 581483,
+      "workId": "OL3375130W"
+    },
+    {
+      "title": "Boom: Bubbles and the End of Stagnation",
+      "author": "Byrne Hobart, Tobias Huber",
+      "coverId": 15101648,
+      "workId": "OL37938070W"
+    },
+    {
+      "title": "Boomerang",
+      "author": "Michael Lewis",
+      "coverId": 6942870,
+      "workId": "OL16102036W"
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "coverId": 8231823,
+      "workId": "OL64365W"
+    },
+    {
+      "title": "Breakneck: China's Quest to Engineer the Future",
+      "author": "Dan Wang",
+      "coverId": 15121652,
+      "workId": "OL42416011W"
+    },
+    {
+      "title": "Bringing Down The House: The Inside Story Of Six M.I.T. Students Who Took Vegas For Millions",
+      "author": "Ben Mezrich",
+      "coverId": 473703,
+      "workId": "OL61394W"
+    },
+    {
+      "title": "Built To Last",
+      "author": "Jim Collins",
+      "coverId": 684195,
+      "workId": "OL3486276W"
+    },
+    {
+      "title": "Capital Volume I",
+      "author": "Karl Marx",
+      "coverUrl": "https://cdn.penguin.co.uk/dam-assets/books/9780140445688/9780140445688-jacket-large.jpg",
+      "sourceUrl": "https://www.penguin.co.uk/books/35192/capital-by-karl-marx-intro-ernest-mandel-trans-ben-fowkes/9780140445688"
+    },
+    {
+      "title": "Charlie Munger: The Complete Investor",
+      "author": "Tren Griffin",
+      "coverId": 8880601,
+      "workId": "OL20227372W"
+    },
+    {
+      "title": "Chip War: The Fight for the World's Most Critical Technology",
+      "author": "Chris Miller",
+      "coverId": 12968901,
+      "workId": "OL27846746W"
+    },
+    {
+      "title": "Chipping: The New Stock Market Method For Surviving Turbulence And Hitting A Hole-In-One",
+      "author": "Harlan D. Platt",
+      "coverId": 1699640,
+      "workId": "OL8247029W"
+    },
+    {
+      "title": "Collapse: How Societies Choose to Fail or Succeed: Revised Edition",
+      "author": "Jared Diamond",
+      "coverId": 12915198,
+      "workId": "OL276557W"
+    },
+    {
+      "title": "Confessions Of An Economics Hit Man",
+      "author": "John Perkins",
+      "coverId": 13977093,
+      "workId": "OL2693772W"
+    },
+    {
+      "title": "Consider the Lobster and Other Essays",
+      "author": "David Foster Wallace",
+      "coverId": 188471,
+      "workId": "OL2943594W"
+    },
+    {
+      "title": "Contours of Descent: U.S. Economic Fractures and the Landscape of Global Austerity",
+      "author": "Robert Polin",
+      "coverId": 895607,
+      "workId": "OL1844335W"
+    },
+    {
+      "title": "Death of a Salesman",
+      "author": "Arthur Miller",
+      "coverId": 9254686,
+      "workId": "OL66346W"
+    },
+    {
+      "title": "Death to the BCS: The Definitive Case Against The Bowl Championship Series",
+      "author": "Dan Wetzel, Josh Peter, Jeff Passan",
+      "coverId": 6624685,
+      "workId": "OL15403242W"
+    },
+    {
+      "title": "Decoded",
+      "author": "Jay-Z",
+      "coverId": 6671502,
+      "workId": "OL15481126W"
+    },
+    {
+      "title": "Deep Tech",
+      "author": "Eric Redmond",
+      "coverUrl": "https://images-na.ssl-images-amazon.com/images/P/1544518951.01.L.jpg",
+      "sourceUrl": "https://books.google.com/books/about/Deep_Tech.html?id=WOdjzgEACAAJ"
+    },
+    {
+      "title": "Delivering Happiness: A Path to Profits, Passion and Purpose",
+      "author": "Tony Hsieh",
+      "coverId": 6956287,
+      "workId": "OL15582623W"
+    },
+    {
+      "title": "Democracy in America",
+      "author": "Alexis De Tocqueville",
+      "coverId": 14942914,
+      "workId": "OL43173667W"
+    },
+    {
+      "title": "Destined For War: Can America and China Escape Thucydides's Trap?",
+      "author": "Graham Allison",
+      "coverId": 8468172,
+      "workId": "OL19354444W"
+    },
+    {
+      "title": "Devil Take the Hindmost: A History of Financial Speculation",
+      "author": "Edward Chancellor",
+      "coverId": 222892,
+      "workId": "OL8034211W"
+    },
+    {
+      "title": "Diamond Dollars: The Economics of Winning in Baseball",
+      "author": "Vince Gennard",
+      "coverId": 1723488,
+      "workId": "OL8753748W"
+    },
+    {
+      "title": "Die With Zero: Getting All You Can from Your Money and Your Life",
+      "author": "Bill Perkins",
+      "coverId": 10433791,
+      "workId": "OL20756743W"
+    },
+    {
+      "title": "Do Androids Dream of Electric Sheep?",
+      "author": "Philip K. Dick",
+      "coverId": 13681045,
+      "workId": "OL28816518W"
+    },
+    {
+      "title": "Dreamstate: A Conspiracy Theory",
+      "author": "Jed McKenna",
+      "coverUrl": "https://images-na.ssl-images-amazon.com/images/P/0989175979.01.L.jpg",
+      "sourceUrl": "https://www.betterworldbooks.com/product/detail/dreamstate-a-conspiracy-theory-9780989175975/new"
+    },
+    {
+      "title": "E.A.R.L.: The Autobiography of DMX",
+      "author": "Smokey Fontaine",
+      "coverId": 41058,
+      "workId": "OL17025019W"
+    },
+    {
+      "title": "Emergent Tokyo: Designing the Spontaneous City",
+      "author": "Jorge Almazán , Joe McReynolds, Naoki Saito",
+      "coverUrl": "https://oroeditions.com/wp-content/uploads/2020/03/Emergent-Tokyo-grid-2.jpg",
+      "sourceUrl": "https://oroeditions.com/product/emergent-tokyo"
+    },
+    {
+      "title": "Empire of Pain: The Secret History of the Sackler Dynasty",
+      "author": "Patrick Radden Keefe",
+      "coverId": 10678221,
+      "workId": "OL24218388W"
+    },
+    {
+      "title": "Essentialism: The Disciplined Pursuit of Less",
+      "author": "Greg McKeown",
+      "coverId": 7285986,
+      "workId": "OL17043626W"
+    },
+    {
+      "title": "Every Day Is Sunday: How Jerry Jones, Robert Kraft, and Roger Goodell Turned the NFL into a Cultural & Economic Juggernaut",
+      "author": "Ken Belson",
+      "coverUrl": "https://www.hbgacademic.com/wp-content/uploads/2025/06/9781538772553.jpg?w=424",
+      "sourceUrl": "https://www.hbgacademic.com/titles/ken-belson/every-day-is-sunday/9781538772553/"
+    },
+    {
+      "title": "Exhalation: Stories",
+      "author": "Ted Chiang",
+      "coverId": 8793546,
+      "workId": "OL20149336W"
+    },
+    {
+      "title": "Extraordinary Popular Delusions And The Madness Of Crowds",
+      "author": "Charles MacKay",
+      "coverId": 713129,
+      "workId": "OL8034276W"
+    },
+    {
+      "title": "Fair Pay: How To Get a Raise, Close the Wage Gap, and Build Stronger Businesses",
+      "author": "David Buckmaster",
+      "coverId": 11531846,
+      "workId": "OL22011799W"
+    },
+    {
+      "title": "Fear And Loathing On The Campaign Trail '72",
+      "author": "Hunter S. Thompson",
+      "coverId": 7961958,
+      "workId": "OL158047W"
+    },
+    {
+      "title": "Flash Boys: A Wall Street Revolt",
+      "author": "Michael Lewis",
+      "coverId": 8260825,
+      "workId": "OL16816775W"
+    },
+    {
+      "title": "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets",
+      "author": "Nassim Nicholas Taleb",
+      "coverId": 855791,
+      "workId": "OL3295029W"
+    },
+    {
+      "title": "Foundation",
+      "author": "Isaac Asimov",
+      "coverId": 14612610,
+      "workId": "OL46125W"
+    },
+    {
+      "title": "Freakonomics: A Rogue Economist Explores The Hidden Side Of Everything",
+      "author": "Steven D. Levitt, Stephen J. Dubner",
+      "coverId": 11172914,
+      "workId": "OL278022W"
+    },
+    {
+      "title": "Gambler: Secrets from a Life at Risk",
+      "author": "Billy Walters",
+      "coverId": 14416142,
+      "workId": "OL34493639W"
+    },
+    {
+      "title": "Gambling Man: The Secret Story of the World's Greatest Disruptor, Masayoshi Son",
+      "author": "Lionel Barber",
+      "coverUrl": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668070758/gambling-man-9781668070758_hr.jpg",
+      "sourceUrl": "https://www.simonandschuster.com/books/Gambling-Man/Lionel-Barber/9781668070758"
+    },
+    {
+      "title": "Genentech: The Beginnings of Biotech",
+      "author": "Sally Smith Hughes",
+      "coverId": 9430350,
+      "workId": "OL16262753W"
+    },
+    {
+      "title": "Going Bigtime: The Spectacular Rise of Umass Basketball",
+      "author": "Marty Dobrow",
+      "coverId": 1695195,
+      "workId": "OL8802211W"
+    },
+    {
+      "title": "Good To Great",
+      "author": "Jim Collins",
+      "coverId": 7431270,
+      "workId": "OL3486275W"
+    },
+    {
+      "title": "Got Fight? The 50 Zen Principles Of Hand-To-Face Combat",
+      "author": "Forrest Griffin",
+      "coverId": 6302110,
+      "workId": "OL14993772W"
+    },
+    {
+      "title": "Gridiron Genius",
+      "author": "Michael Lombardi",
+      "coverUrl": "https://images3.penguinrandomhouse.com/cover/9780525573821",
+      "sourceUrl": "https://www.penguinrandomhouse.com/books/567325/gridiron-genius-by-michael-lombardi-foreword-by-bill-belichick/"
+    },
+    {
+      "title": "Griftopia: Bubble Machines, Vampire Squids, and the Long Con That is Breaking America",
+      "author": "Matt Taibbi",
+      "coverId": 6698397,
+      "workId": "OL15633488W"
+    },
+    {
+      "title": "Guns, Germs, And Steel",
+      "author": "Jared Diamond",
+      "coverId": 7884018,
+      "workId": "OL276558W"
+    },
+    {
+      "title": "Hillbilly Elegy: A Memoir of a Family and Culture in Crisis",
+      "author": "J.D. Vance",
+      "coverId": 14846900,
+      "workId": "OL17357665W"
+    },
+    {
+      "title": "Hooked: How TO Build Habit-Forming Products",
+      "author": "Nir Eyal",
+      "coverId": 8477209,
+      "workId": "OL19361622W"
+    },
+    {
+      "title": "House of Fidelity: The Rise of the Johnson Dynasty and the Company That Changed American Investing",
+      "author": "Justin Baer",
+      "coverUrl": "https://www.hachettebookgroup.com/wp-content/uploads/2026/11/9781538766958.jpg?w=424",
+      "sourceUrl": "https://www.hachettebookgroup.com/titles/justin-baer/house-of-fidelity/9781538766958/"
+    },
+    {
+      "title": "House of Huawei: The Secret History of China's Most Powerful Company",
+      "author": "Eva Dou",
+      "coverUrl": "https://images1.penguinrandomhouse.com/cover/9780593544631",
+      "sourceUrl": "https://www.penguinrandomhouse.com/books/721789/house-of-huawei-by-eva-dou/9780593544631/"
+    },
+    {
+      "title": "House Of Lies: How Management Consultants Steal Your Watch And Then Tell You The Time",
+      "author": "Martin Kihn",
+      "coverId": 286480,
+      "workId": "OL8135486W"
+    },
+    {
+      "title": "How Adam Smith Can Change Your Life?",
+      "author": "Russ Roberts",
+      "coverId": 7912808,
+      "workId": "OL17640403W"
+    },
+    {
+      "title": "How the World Works",
+      "author": "Noam Chomsky, David Barsamian",
+      "coverId": 7487670,
+      "workId": "OL17392387W"
+    },
+    {
+      "title": "How to Change Your Mind",
+      "author": "Michael Pollan",
+      "coverId": 8805168,
+      "workId": "OL20159801W"
+    },
+    {
+      "title": "How To Stop Worrying and Start Living",
+      "author": "Dale Carnegie",
+      "coverId": 10829208,
+      "workId": "OL1063338W"
+    },
+    {
+      "title": "If Anyone Builds It, Everyone Dies: Why Superhuman AI Would Kill Us All",
+      "author": "Eliezer Yudkowsky, Nate Soares",
+      "coverId": 15149102,
+      "workId": "OL42542608W"
+    },
+    {
+      "title": "Immoderate Greatness: Why Civilizations Fail",
+      "author": "William Ophuls",
+      "coverId": 10591301,
+      "workId": "OL24173528W"
+    },
+    {
+      "title": "Inbound Marketing",
+      "author": "Brian Halligan, Dharmesh Shah",
+      "coverId": 6420385,
+      "workId": "OL13804806W"
+    },
+    {
+      "title": "Industrial Society and Its Future",
+      "author": "Theodore Kaczynski",
+      "coverId": 13196917,
+      "workId": "OL30140056W"
+    },
+    {
+      "title": "Infinite Jest",
+      "author": "David Foster Wallace",
+      "coverId": 8237639,
+      "workId": "OL2943602W"
+    },
+    {
+      "title": "Insanely Simple: The Obsession That Drives Apple's Success",
+      "author": "Ken Segall",
+      "coverId": 8142535,
+      "workId": "OL16361675W"
+    },
+    {
+      "title": "It's Better To Be Feared: The New England Patriots Dynasty and the Pursuit of Greatness",
+      "author": "Seth Wickersham",
+      "coverId": 12289786,
+      "workId": "OL25285792W"
+    },
+    {
+      "title": "Jesse Livermore - Boy Plunger",
+      "author": "Tom Rubython",
+      "coverId": 13800996,
+      "workId": "OL28661964W"
+    },
+    {
+      "title": "John Stuart Mill Autobiography",
+      "author": "John Stuart Mill",
+      "coverId": 8982998,
+      "workId": "OL1068072W"
+    },
+    {
+      "title": "Just Do It: The Nike Spirit in the Corporate World",
+      "author": "Donald Katz",
+      "coverId": 783233,
+      "workId": "OL3526144W"
+    },
+    {
+      "title": "Kicking the Hornets Nest",
+      "author": "Satoshi Nakamoto",
+      "coverUrl": "https://assets.lulu.com/cover_thumbs/p/6/p6yeg7k-front-shortedge-384.jpg",
+      "sourceUrl": "https://www.lulu.com/shop/mill-hill-books/kicking-the-hornets-nest/paperback/product-p6yeg7k.html"
+    },
+    {
+      "title": "Learn Agile",
+      "author": "Andrew Stellman, Jennifer Greene",
+      "coverId": 7361129,
+      "workId": "OL17188967W"
+    },
+    {
+      "title": "Lee Kuan Yew: The Grand Master's Insights on China, the United States, and the World",
+      "author": "Graham Allison",
+      "coverId": 7285172,
+      "workId": "OL17038308W"
+    },
+    {
+      "title": "Leonardo Da Vinci",
+      "author": "Walter Isaacson",
+      "coverId": 8087691,
+      "workId": "OL17802920W"
+    },
+    {
+      "title": "Let My People Go Surfing: The Education of a Reluctant Businessman",
+      "author": "Yvon Chouinard",
+      "coverId": 6875301,
+      "workId": "OL16028960W"
+    },
+    {
+      "title": "Letters from a Stoic",
+      "author": "Lucius Annaeus Seneca",
+      "coverId": 10331283,
+      "workId": "OL21164707W"
+    },
+    {
+      "title": "Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX",
+      "author": "Eric Berger",
+      "coverId": 11033056,
+      "workId": "OL21893953W"
+    },
+    {
+      "title": "Listen, Liberal or What Ever Happened to the Party of The People?",
+      "author": "Thomas Frank",
+      "coverUrl": "https://mpd-biblio-covers.imgix.net/9781250118134.jpg",
+      "sourceUrl": "https://us.macmillan.com/books/9781250118134/listenliberal/"
+    },
+    {
+      "title": "Living On The Black: Two Pitchers, Two Teams, One Season To Remember",
+      "author": "John Feinstein",
+      "coverId": 2379217,
+      "workId": "OL2704145W"
+    },
+    {
+      "title": "Lost City of the Monkey God",
+      "author": "Douglas Preston",
+      "coverId": 8184985,
+      "workId": "OL17876084W"
+    },
+    {
+      "title": "Make Something Wonderful",
+      "author": "Steve Jobs",
+      "coverId": 14819518,
+      "workId": "OL40360935W"
+    },
+    {
+      "title": "Man Without a Country",
+      "author": "Kurt Vonnegut",
+      "coverId": 488595,
+      "workId": "OL15006670W"
+    },
+    {
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "coverId": 8513458,
+      "workId": "OL1268413W"
+    },
+    {
+      "title": "Margin of Safety",
+      "author": "Seth Klarman",
+      "coverId": 8042651,
+      "workId": "OL4108209W"
+    },
+    {
+      "title": "May The Best Team Win: Baseball Economics and Public Policy",
+      "author": "Andrew Zimbalist",
+      "coverId": 614024,
+      "workId": "OL7992591W"
+    },
+    {
+      "title": "Mayor for A New America",
+      "author": "Thomas Menino",
+      "coverId": 9734717,
+      "workId": "OL19992803W"
+    },
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "coverId": 211529,
+      "workId": "OL1317211W"
+    },
+    {
+      "title": "Mindfulness in Plain English",
+      "author": "Bhante Gunaratana",
+      "coverId": 652683,
+      "workId": "OL8666082W"
+    },
+    {
+      "title": "Moneyball",
+      "author": "Michael Lewis",
+      "coverId": 467718,
+      "workId": "OL7944813W"
+    },
+    {
+      "title": "Moneymaker: How And Amateur Poker Player Turned $40 Into $2.5M",
+      "author": "Chris Moneymaker",
+      "coverId": 34986,
+      "workId": "OL275808W"
+    },
+    {
+      "title": "My Life",
+      "author": "Bill Clinton",
+      "coverId": 227454,
+      "workId": "OL19486W"
+    },
+    {
+      "title": "Nine Stories",
+      "author": "J.D. Salinger",
+      "coverId": 392623,
+      "workId": "OL3335290W"
+    },
+    {
+      "title": "No Man Knows My History: The Life of Joseph Smith",
+      "author": "Fawn M. Brodie",
+      "coverId": 420053,
+      "workId": "OL4482315W"
+    },
+    {
+      "title": "Not Accountable: Rethinking the Constitutionality of Public Employee Unions",
+      "author": "Philip K. Howard",
+      "coverId": 13195362,
+      "workId": "OL28449514W"
+    },
+    {
+      "title": "Notes from Underground",
+      "author": "Fyodor Dostoevsky",
+      "coverId": 14830484,
+      "workId": "OL21025633W"
+    },
+    {
+      "title": "Nuclear War: A Scenario",
+      "author": "Nuclear War: A Scenario",
+      "coverId": 14601155,
+      "workId": "OL38364901W"
+    },
+    {
+      "title": "Objective Knowledge: An Evolutionary Approach",
+      "author": "Karl Popper",
+      "coverId": 13451952,
+      "workId": "OL1984562W"
+    },
+    {
+      "title": "On Liberty",
+      "author": "John Stuart Mill",
+      "coverId": 14914109,
+      "workId": "OL43077051W"
+    },
+    {
+      "title": "On the Edge: The Art of Risking Everything",
+      "author": "Nate Silver",
+      "coverId": 14658251,
+      "workId": "OL37768334W"
+    },
+    {
+      "title": "One Up On Wall Street",
+      "author": "Peter Lynch",
+      "coverId": 6241104,
+      "workId": "OL2841891W"
+    },
+    {
+      "title": "Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company",
+      "author": "Andrew S. Grove",
+      "coverId": 241061,
+      "workId": "OL2355832W"
+    },
+    {
+      "title": "Out of Mao's Shadow",
+      "author": "Philip P. Pan",
+      "coverId": 5432534,
+      "workId": "OL9740720W"
+    },
+    {
+      "title": "Outliers",
+      "author": "Malcolm Gladwell",
+      "coverId": 10021591,
+      "workId": "OL5749847W"
+    },
+    {
+      "title": "Outlive: The Science and Art of Longevity",
+      "author": "Peter Attia",
+      "coverId": 13191259,
+      "workId": "OL28148070W"
+    },
+    {
+      "title": "Pace Layers",
+      "author": "Long Now Foundation",
+      "coverUrl": "https://shop.longnow.org/cdn/shop/files/shop-pacelayers.jpg?v=1762979064",
+      "sourceUrl": "https://shop.longnow.org/products/pacelayers-02025"
+    },
+    {
+      "title": "Pay Without Performance: The Unfulfilled Promise of Executive Compensation",
+      "author": "Lucian Bebchuk, Jesse Fried",
+      "coverId": 1336115,
+      "workId": "OL21006122W"
+    },
+    {
+      "title": "Pay: Why People Earn What They Earn And What You Can Do Now To Make More",
+      "author": "Kevin F. Hallock",
+      "coverUrl": "https://images-na.ssl-images-amazon.com/images/P/1107014980.01.L.jpg",
+      "sourceUrl": "https://www.cambridge.org/core/books/pay/37D96AD10099DEC3CA0CDA52096E6BA0"
+    },
+    {
+      "title": "Playing For Keeps",
+      "author": "David Halberstam",
+      "coverId": 417560,
+      "workId": "OL109595W"
+    },
+    {
+      "title": "Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger",
+      "author": "Charles T. Munger",
+      "coverId": 8337563,
+      "workId": "OL8928012W"
+    },
+    {
+      "title": "Powerful: Building a Culture of Freedom and Responsibility",
+      "author": "Patty McCord",
+      "coverId": 10720773,
+      "workId": "OL21153780W"
+    },
+    {
+      "title": "Powerhouse: The Untold Story of Hollywood's Creative Artists Agency",
+      "author": "James Andrew Miller",
+      "coverId": 8845742,
+      "workId": "OL20196003W"
+    },
+    {
+      "title": "Predictably Irrational: The Hidden Forces That Share Our Decisions",
+      "author": "Dan Ariely",
+      "coverId": 9033558,
+      "workId": "OL20366709W"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austin",
+      "coverId": 12645114,
+      "workId": "OL66554W"
+    },
+    {
+      "title": "Principles",
+      "author": "Ray Dalio",
+      "coverId": 8315355,
+      "workId": "OL18147675W"
+    },
+    {
+      "title": "Principles for Dealing with the Changing World Order",
+      "author": "Ray Dalio",
+      "coverId": 12725957,
+      "workId": "OL21912973W"
+    },
+    {
+      "title": "Principles for Navigating Big Debt  Crises",
+      "author": "Ray Dalio",
+      "coverId": 11980955,
+      "workId": "OL21718768W"
+    },
+    {
+      "title": "Principles of Corporate Renewal",
+      "author": "Harlan D. Platt",
+      "coverId": 1254437,
+      "workId": "OL8247030W"
+    },
+    {
+      "title": "Product Leadership",
+      "author": "Richard Banfield",
+      "coverId": 13161226,
+      "workId": "OL19711093W"
+    },
+    {
+      "title": "Pursing The Competitive Edge",
+      "author": "Robert Hayes, Gary Pisano, David Upton, Steven Wheelwright",
+      "coverId": 14327557,
+      "workId": "OL18206156W"
+    },
+    {
+      "title": "Read Write Own",
+      "author": "Chris Dixon",
+      "coverUrl": "https://images3.penguinrandomhouse.com/cover/9780593731390",
+      "sourceUrl": "https://www.penguinrandomhouse.com/books/744504/read-write-own-by-chris-dixon/9780593731390/"
+    },
+    {
+      "title": "Reality Is Not What It Seems: The Journey to Quantum Gravity",
+      "author": "Carlo Rovelli",
+      "coverId": 9269326,
+      "workId": "OL19655822W"
+    },
+    {
+      "title": "Reminiscences of a Stock Operator",
+      "author": "Edwin Lefevre",
+      "coverId": 300533,
+      "workId": "OL3472215W"
+    },
+    {
+      "title": "Return to the Little Kingdom",
+      "author": "Michael Moritz",
+      "coverId": 6671375,
+      "workId": "OL15186024W"
+    },
+    {
+      "title": "Same as Ever: A Guide to What Never Changes",
+      "author": "Morgan Housel",
+      "coverId": 14157635,
+      "workId": "OL35156586W"
+    },
+    {
+      "title": "San Fransicko: Why Progressives Ruin Cities",
+      "author": "Michael Shellenberger",
+      "coverId": 12499100,
+      "workId": "OL25907233W"
+    },
+    {
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "coverId": 8634250,
+      "workId": "OL17075811W"
+    },
+    {
+      "title": "Scorecasting: The Hidden Influences Behind How Sports Are Played And Games Are Won",
+      "author": "Tobias J. Moskowitz, L. Jon Wetheim",
+      "coverId": 6944352,
+      "workId": "OL15663815W"
+    },
+    {
+      "title": "Shoe Dog",
+      "author": "Phil Knight",
+      "coverId": 8858487,
+      "workId": "OL17825802W"
+    },
+    {
+      "title": "Ski, Inc. 2020",
+      "author": "Chris Diamond",
+      "coverId": 11292411,
+      "workId": "OL24620898W"
+    },
+    {
+      "title": "Skin in the Game: Hidden Asymmetries in Daily Life",
+      "author": "Nassim Nicholas Taleb",
+      "coverId": 10856868,
+      "workId": "OL17887158W"
+    },
+    {
+      "title": "Snow Crash",
+      "author": "Neal Stephenson",
+      "coverId": 392508,
+      "workId": "OL38501W"
+    },
+    {
+      "title": "Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin",
+      "author": "Jason Paul Lowery",
+      "coverUrl": "https://www.worldofbooks.com/cdn/shop/files/B0BW358F37.jpg?v=1750969770",
+      "sourceUrl": "https://www.worldofbooks.com/en-gb/products/softwar-book-jason-paul-lowery-9798371524188"
+    },
+    {
+      "title": "Start Something That Matters",
+      "author": "Blake Mycoskie",
+      "coverId": 8117576,
+      "workId": "OL15921525W"
+    },
+    {
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "coverId": 12374726,
+      "workId": "OL16085155W"
+    },
+    {
+      "title": "Steve Jobs & the NeXT Big Thing",
+      "author": "Randall E. Stross",
+      "coverId": 3942352,
+      "workId": "OL3279502W"
+    },
+    {
+      "title": "Strength Training Anatomy",
+      "author": "Frederic Delavier",
+      "coverUrl": "https://us.humankinetics.com/cdn/shop/files/9781718214866_3ec0dfa6-2759-4c94-8793-f64d6012c7c3.jpg?v=1791875068&width=1214",
+      "sourceUrl": "https://us.humankinetics.com/products/strength-training-anatomy-4th-edition"
+    },
+    {
+      "title": "Stubborn Attachments",
+      "author": "Tyler Cowen",
+      "coverId": 12385566,
+      "workId": "OL26422034W"
+    },
+    {
+      "title": "Sum: Forty Tales from the Afterlives",
+      "author": "David Eagleman",
+      "coverId": 9584588,
+      "workId": "OL11958215W"
+    },
+    {
+      "title": "Superintelligence: Paths, Dangers, Strategies",
+      "author": "Nick Bostrom",
+      "coverId": 8039542,
+      "workId": "OL17319280W"
+    },
+    {
+      "title": "Surely You're Joking, Mr. Feynman",
+      "author": "Richard Feynman",
+      "coverId": 9274698,
+      "workId": "OL514629W"
+    },
+    {
+      "title": "The 4-Hour Body",
+      "author": "Timothy Ferriss",
+      "coverId": 6673523,
+      "workId": "OL15578776W"
+    },
+    {
+      "title": "The 5 Types of Wealth: A Transformative Guide to Design Your Dream Life",
+      "author": "Sahil Bloom",
+      "coverId": 14857440,
+      "workId": "OL42402814W"
+    },
+    {
+      "title": "The AirBNB Story",
+      "author": "Leigh Gallagher",
+      "coverId": 8133669,
+      "workId": "OL17838611W"
+    },
+    {
+      "title": "The Alchemy of Finance",
+      "author": "George Soros",
+      "coverId": 4115861,
+      "workId": "OL1993774W"
+    },
+    {
+      "title": "The Baseball Uncyclopedia",
+      "author": "Michael Kun, Howard Bloom",
+      "coverId": 835573,
+      "workId": "OL4800527W"
+    },
+    {
+      "title": "The Bed of Procrustes: Philosophical and Practical Aphorisms",
+      "author": "Nassim Nicholas Taleb",
+      "coverId": 7990308,
+      "workId": "OL15538467W"
+    },
+    {
+      "title": "The Big Miss: My Years Coaching Tiger Woods",
+      "author": "Hank Haney",
+      "coverId": 14416701,
+      "workId": "OL19952394W"
+    },
+    {
+      "title": "The Big Picture: On the origins of life, meaning, and the universe itself",
+      "author": "Sean Carroll",
+      "coverId": 7885928,
+      "workId": "OL17599854W"
+    },
+    {
+      "title": "The Billion Dollar Molecule: One Company's Quest for the Perfect Drug",
+      "author": "Barry Werth",
+      "coverId": 405799,
+      "workId": "OL2719754W"
+    },
+    {
+      "title": "The Bitcoin Standard",
+      "author": "Saifedean Ammous",
+      "coverId": 15226011,
+      "workId": "OL19737774W"
+    },
+    {
+      "title": "The Boiling Moat: Urgent Steps to Defend Taiwan",
+      "author": "Matt Pottinger",
+      "coverUrl": "https://hoover-s3-website.s3.us-west-2.amazonaws.com/s3fs-public/2024-04/BoilingMoat_web_redesign.jpg",
+      "sourceUrl": "https://hooverpress.bookstore.ipgbook.com/the-boiling-moat-products-9780817926489.php"
+    },
+    {
+      "title": "The Breakthrough: Immunotherapy and the Race to Cure Cancer",
+      "author": "Charles Graeber",
+      "coverId": 12100586,
+      "workId": "OL20624759W"
+    },
+    {
+      "title": "The Catcher In The Rye",
+      "author": "J.D. Salinger",
+      "coverId": 9273490,
+      "workId": "OL3335245W"
+    },
+    {
+      "title": "The CEO Pay Machine",
+      "author": "Steven Clifford",
+      "coverUrl": "https://images.penguinrandomhouse.com/cover/9780735212398",
+      "sourceUrl": "https://www.porchlightbooks.com/products/ceo-pay-machine-steven-clifford-9780735212398"
+    },
+    {
+      "title": "The Clock of The Long Now: Time and Responsibility",
+      "author": "Stewart Brand",
+      "coverId": 7877514,
+      "workId": "OL823145W"
+    },
+    {
+      "title": "The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure",
+      "author": "Greg Lukianoff, Jonathan Haidt",
+      "coverId": 10138103,
+      "workId": "OL19664112W"
+    },
+    {
+      "title": "The Collapse of Complex Societies",
+      "author": "Joseph Tainter",
+      "coverId": 8460196,
+      "workId": "OL4741769W"
+    },
+    {
+      "title": "The Complete Stories of Isaac Asimov",
+      "author": "Isaac Asimov",
+      "coverId": 13790256,
+      "workId": "OL14959025W"
+    },
+    {
+      "title": "The Cost of These Dreams: Sports Stories and Other Serious Business",
+      "author": "Wright Thompson",
+      "coverId": 8798081,
+      "workId": "OL20153211W"
+    },
+    {
+      "title": "The Courage to Be Disliked",
+      "author": "Ichiro Kishimi",
+      "coverId": 15129220,
+      "workId": "OL19744000W"
+    },
+    {
+      "title": "The Death of Public School",
+      "author": "Cara Fitzpatrick",
+      "coverId": 14714813,
+      "workId": "OL34053417W"
+    },
+    {
+      "title": "The Decline and Fall of the Roman Empire: Volume I",
+      "author": "Edward Gibbon",
+      "coverId": 13274653,
+      "workId": "OL31488473W"
+    },
+    {
+      "title": "The Deficit Myth",
+      "author": "Stephanie Kelton",
+      "coverId": 9388252,
+      "workId": "OL20709672W"
+    },
+    {
+      "title": "The Doors of Perception",
+      "author": "Aldous Huxley",
+      "coverId": 6622313,
+      "workId": "OL64441W"
+    },
+    {
+      "title": "The Dorito Effect: The Surprising New Truth About Food and Flavor",
+      "author": "Mark Schatzker",
+      "coverId": 8782604,
+      "workId": "OL19667961W"
+    },
+    {
+      "title": "The End of History and the Last Man",
+      "author": "Francis Fukuyama",
+      "coverId": 18768,
+      "workId": "OL2670501W"
+    },
+    {
+      "title": "The Federalist Papers",
+      "author": "Charles R. Kesler",
+      "coverId": 12130852,
+      "workId": "OL284420W"
+    },
+    {
+      "title": "The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "coverId": 14627060,
+      "workId": "OL27513W"
+    },
+    {
+      "title": "The Fountainhead",
+      "author": "Ayn Rand",
+      "coverId": 13730003,
+      "workId": "OL32423092W"
+    },
+    {
+      "title": "The Fourth Turning: An American Prophecy - What the Cycles of History Tell Us About America's Next Rendezvous with Destiny",
+      "author": "William Strauss, Neil Howe",
+      "coverId": 367879,
+      "workId": "OL3289628W"
+    },
+    {
+      "title": "The Google Story",
+      "author": "David A. Vise",
+      "coverId": 6395681,
+      "workId": "OL4079406W"
+    },
+    {
+      "title": "The Great Depression: A Diary",
+      "author": "Benjamin Roth",
+      "coverId": 9338546,
+      "workId": "OL20670062W"
+    },
+    {
+      "title": "The Great Stagnation",
+      "author": "Tyler Cowen",
+      "coverId": 7839953,
+      "workId": "OL17569194W"
+    },
+    {
+      "title": "The Greatest Trade Ever: The Behind-The-Scenes Story Of How John Paulson Defied Wall Street",
+      "author": "Gregory Zuckerman",
+      "coverId": 6409995,
+      "workId": "OL13852507W"
+    },
+    {
+      "title": "The Hard Thing About Hard Things",
+      "author": "Ben Horowitz",
+      "coverId": 7279515,
+      "workId": "OL16818208W"
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "coverId": 8406766,
+      "workId": "OL219602W"
+    },
+    {
+      "title": "The Hundred-Year Marathon: China's Secret Strategy to Replace America as the Global Superpower",
+      "author": "Michael Pillsbury",
+      "coverId": 10234261,
+      "workId": "OL19994559W"
+    },
+    {
+      "title": "The Innovator's Dilemma",
+      "author": "Clayton M. Christensen",
+      "coverId": 9274687,
+      "workId": "OL1999873W"
+    },
+    {
+      "title": "The Intelligent Investor",
+      "author": "Benjamin Graham",
+      "coverId": 36434,
+      "workId": "OL273184W"
+    },
+    {
+      "title": "The Joy Of Less",
+      "author": "Francine Jay",
+      "coverId": 11659707,
+      "workId": "OL16239008W"
+    },
+    {
+      "title": "The Last Season",
+      "author": "Phil Jackson",
+      "coverId": 872263,
+      "workId": "OL4519996W"
+    },
+    {
+      "title": "The Mamba Mentality",
+      "author": "Kobe Bryant",
+      "coverId": 9261036,
+      "workId": "OL19754799W"
+    },
+    {
+      "title": "The Managerial Revolution: What is Happening in the World",
+      "author": "James Burnham",
+      "coverId": 15011243,
+      "workId": "OL43114996W"
+    },
+    {
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "coverId": 12820198,
+      "workId": "OL498556W"
+    },
+    {
+      "title": "The Network State: How To Start a New Country",
+      "author": "Balaji Srinivasan",
+      "coverId": 14569476,
+      "workId": "OL37531110W"
+    },
+    {
+      "title": "The Number: How the Drive for Quarterly Earning Corrupted Wall Street and Corporate America",
+      "author": "Alex Berenson",
+      "coverId": 6873396,
+      "workId": "OL16026526W"
+    },
+    {
+      "title": "The Nvidia Way: Jensen Huang and the Making of a Tech Giant",
+      "author": "Tae Kim",
+      "coverUrl": "https://cdn2.wwnorton.com/wwnproducts/TRADE/0/1/9781324086710/9781324086710_300.jpg",
+      "sourceUrl": "https://wwnorton.com/books/9781324086710"
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "coverId": 15028634,
+      "workId": "OL32939015W"
+    },
+    {
+      "title": "The Phoenix Effect",
+      "author": "Carter Pate, Harlan Platt",
+      "coverId": 300545,
+      "workId": "OL17643667W"
+    },
+    {
+      "title": "The Price of Time: The Real Story of Interest",
+      "author": "Edward Chancellor",
+      "coverId": 13141027,
+      "workId": "OL26352669W"
+    },
+    {
+      "title": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "coverId": 13345917,
+      "workId": "OL21456413W"
+    },
+    {
+      "title": "The Prize: The Epic Quest for Oil, Money & Power",
+      "author": "Daniel Yergin",
+      "coverId": 409010,
+      "workId": "OL2748135W"
+    },
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "coverId": 10389354,
+      "workId": "OL21640039W"
+    },
+    {
+      "title": "The Rap Yearbook",
+      "author": "Shea Serrano",
+      "coverId": 9909968,
+      "workId": "OL19670864W"
+    },
+    {
+      "title": "The Rational Optimist: How Prosperity Evolves",
+      "author": "Matt Ridley",
+      "coverId": 7024445,
+      "workId": "OL14928967W"
+    },
+    {
+      "title": "The Ride of A Lifetime",
+      "author": "Robert Iger",
+      "coverId": 8788773,
+      "workId": "OL20140592W"
+    },
+    {
+      "title": "The Road to Serfdom",
+      "author": "Friedrich Hayek",
+      "coverId": 13184244,
+      "workId": "OL29314665W"
+    },
+    {
+      "title": "The Roving Mind",
+      "author": "Isaac Asimov",
+      "coverId": 9304107,
+      "workId": "OL46307W"
+    },
+    {
+      "title": "The Scaling Era: An Oral History of AI, 2019 - 2025",
+      "author": "Dwarkesh Patel, Gavin Leech",
+      "coverUrl": "https://images-na.ssl-images-amazon.com/images/P/1953953557.01.L.jpg",
+      "sourceUrl": "https://press.stripe.com/scaling"
+    },
+    {
+      "title": "The Search: How Google And Its Rivals Rewrote The Rules Of Business And Transformed Our Culture",
+      "author": "John Battelle",
+      "coverId": 7869353,
+      "workId": "OL17584321W"
+    },
+    {
+      "title": "The Secret",
+      "author": "Rhonda Byrne",
+      "coverId": 845815,
+      "workId": "OL15839737W"
+    },
+    {
+      "title": "The Signal And The Noise: Why So Many Prediction Fail But Some Don't",
+      "author": "Nate Silver",
+      "coverId": 7256893,
+      "workId": "OL16700318W"
+    },
+    {
+      "title": "The Singularity Is Near: When Humans Transcend Biology",
+      "author": "Ray Kurzweil",
+      "coverId": 400518,
+      "workId": "OL1958850W"
+    },
+    {
+      "title": "The Sovereign Individual",
+      "author": "James Dale Davidson, William Rees-Mogg",
+      "coverId": 425227,
+      "workId": "OL3350985W"
+    },
+    {
+      "title": "The Space Barons",
+      "author": "Christian Davenport",
+      "coverId": 9167513,
+      "workId": "OL19738307W"
+    },
+    {
+      "title": "The Technological Republic: Hard Power, Soft Belief, and the Future of the West",
+      "author": "Alexander C. Karp, Nicholas W. Zamiska",
+      "coverId": 15101498,
+      "workId": "OL42426442W"
+    },
+    {
+      "title": "The Tell-Tale Heart and Other Stories",
+      "author": "Edgar Allan Poe",
+      "coverId": 8399175,
+      "workId": "OL25009175W"
+    },
+    {
+      "title": "The Thank You Economy",
+      "author": "Gary Vaynerchuk",
+      "coverId": 7663910,
+      "workId": "OL17481051W"
+    },
+    {
+      "title": "The Three-Body Problem",
+      "author": "Cixin Liu, Ken Liu",
+      "coverId": 9157544,
+      "workId": "OL17267881W"
+    },
+    {
+      "title": "The Tipping Point",
+      "author": "Malcolm Gladwell",
+      "coverId": 10873292,
+      "workId": "OL5749848W"
+    },
+    {
+      "title": "The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind",
+      "author": "Dan Davies",
+      "coverId": 15219579,
+      "workId": "OL37568651W"
+    },
+    {
+      "title": "The Winner Within: A Life Plan for Team Players",
+      "author": "Pat Riley",
+      "coverId": 6576031,
+      "workId": "OL15156470W"
+    },
+    {
+      "title": "The Witches: Salem, 1692",
+      "author": "Stacy Schiff",
+      "coverId": 7377438,
+      "workId": "OL17269256W"
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "author": "Jordan Belfort",
+      "coverId": 374261,
+      "workId": "OL8383186W"
+    },
+    {
+      "title": "The World Is Flat: A Brief History of the Twenty-first Century",
+      "author": "Thomas L. Friedman",
+      "coverId": 10160383,
+      "workId": "OL3740416W"
+    },
+    {
+      "title": "Thinking in Bets",
+      "author": "Annie Duke",
+      "coverId": 8792782,
+      "workId": "OL19736287W"
+    },
+    {
+      "title": "Thinking Slow and Fast",
+      "author": "Daniel Kahneman",
+      "coverId": 7889800,
+      "workId": "OL15992072W"
+    },
+    {
+      "title": "This Is Your Mind on Plants",
+      "author": "Michael Pollan",
+      "coverId": 10512625,
+      "workId": "OL23527042W"
+    },
+    {
+      "title": "This Phenomenal Life",
+      "author": "Misha Maynerick Blaise",
+      "coverId": 8314443,
+      "workId": "OL18146854W"
+    },
+    {
+      "title": "Those Guys Have All The Fun: Inside The World of ESPN",
+      "author": "James Andrew Miller, Tom Shales",
+      "coverId": 11729072,
+      "workId": "OL19947575W"
+    },
+    {
+      "title": "Through the Looking Glass",
+      "author": "Lewis Carroll",
+      "coverId": 15183869,
+      "workId": "OL45018463W"
+    },
+    {
+      "title": "Tired of Winning: Donald Trump and the End of the Grand Old Party",
+      "author": "Jonathan Karl",
+      "coverId": 14538955,
+      "workId": "OL35815364W"
+    },
+    {
+      "title": "To Sell Is Human: The Surprising Truth About Moving Others",
+      "author": "Daniel H. Punk",
+      "coverId": 10297418,
+      "workId": "OL20924665W"
+    },
+    {
+      "title": "U.S. Constitution and Other Key American Writings",
+      "author": "Founding Fathers",
+      "coverId": 8950720,
+      "workId": "OL20292174W"
+    },
+    {
+      "title": "Uncontrolled Spread: Why COVID-19 Crushed Us and How We Can Defeat the Next Pandemic",
+      "author": "Scott Gottlieb",
+      "coverId": 11477300,
+      "workId": "OL24739271W"
+    },
+    {
+      "title": "Understanding Executive Compensation: A Practical Guide for Decision Makers",
+      "author": "Irving S. Becker, William M. Gereck",
+      "coverId": 14528683,
+      "workId": "OL31539942W"
+    },
+    {
+      "title": "Unequal Health: How Inequality Contributes To Health Or Illness",
+      "author": "Grace Budrys",
+      "coverId": 9157056,
+      "workId": "OL13630831W"
+    },
+    {
+      "title": "Unit X: How the Pentagon and Silicon Valley Are Transforming the Future of War",
+      "author": "Raj M. Shah, Christopher Kirchhoff",
+      "coverId": 15160651,
+      "workId": "OL37625401W"
+    },
+    {
+      "title": "Unmasked",
+      "author": "Andy Ngo",
+      "coverId": 10183014,
+      "workId": "OL20865567W"
+    },
+    {
+      "title": "Unshakeable: Your Financial Freedom Playbook",
+      "author": "Tony Robbins",
+      "coverId": 8814861,
+      "workId": "OL17639677W"
+    },
+    {
+      "title": "Upper Left Cities: A Cultural Atlas of San Francisco, Portland, and Seattle",
+      "author": "Hunter Shobe , David Banis",
+      "coverId": 12321168,
+      "workId": "OL21890286W"
+    },
+    {
+      "title": "Venture Deals: Be Smarter than your Lawyer and Venture Capitalist",
+      "author": "Brad Feld, Jason Mendelson",
+      "coverId": 8732100,
+      "workId": "OL16134369W"
+    },
+    {
+      "title": "War Room: Legacy of Bill Belichick and the Art of Building the Perfect Team",
+      "author": "Michael Holley",
+      "coverId": 13166276,
+      "workId": "OL19948713W"
+    },
+    {
+      "title": "What the Anti-Federalists Were For",
+      "author": "Herbert J. Storing",
+      "coverId": 143161,
+      "workId": "OL3489437W"
+    },
+    {
+      "title": "What Works on Wall Street",
+      "author": "James P. O'Shaughnessy",
+      "coverId": 55001,
+      "workId": "OL1817896W"
+    },
+    {
+      "title": "What's Our Problem?: A Self-Help Book for Societies",
+      "author": "Tim Urban",
+      "coverId": 13323691,
+      "workId": "OL34489497W"
+    },
+    {
+      "title": "Where Are the Customers' Yachts? Or A Good Hard Look at Wall Street",
+      "author": "Fred Schwed",
+      "coverId": 306898,
+      "workId": "OL3516563W"
+    },
+    {
+      "title": "Where'd You Get Those?",
+      "author": "Bobbito Garcia",
+      "coverId": 13561883,
+      "workId": "OL19709676W"
+    },
+    {
+      "title": "While America Aged",
+      "author": "Roger Lowenstein",
+      "coverId": 11555577,
+      "workId": "OL24793240W"
+    },
+    {
+      "title": "Who Knew",
+      "author": "Barry Diller",
+      "coverUrl": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668096871/who-knew-9781668096871_hr.jpg",
+      "sourceUrl": "https://www.simonandschuster.com/books/Who-Knew/Barry-Diller/9781668096871"
+    },
+    {
+      "title": "Wild Ride: Inside Uber's Quest for World Domination",
+      "author": "Adam Lashinsky",
+      "coverId": 8111915,
+      "workId": "OL17821432W"
+    },
+    {
+      "title": "Work Rules! Insights from Inside Google",
+      "author": "Laszlo Buck",
+      "coverUrl": "https://www.hachettebookgroup.com/wp-content/uploads/2026/02/9781455554812.jpg?w=420",
+      "sourceUrl": "https://www.hachettebookgroup.com/titles/laszlo-bock/work-rules/9781455554812/"
+    },
+    {
+      "title": "Zero to One: Notes on Startups, or How to Build the Future",
+      "author": "Peter Thiel",
+      "coverId": 9002334,
+      "workId": "OL17078706W"
+    }
+  ]
+}
