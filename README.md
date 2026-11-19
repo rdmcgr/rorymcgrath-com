@@ -50,6 +50,11 @@ The book-details dialog sends requests to `bookshelf/borrow.php`. The endpoint
 checks the book against the current catalog, so future CSV imports update the
 list of books that can be requested.
 
+Set the `BOOKSHELF_BORROW_RECIPIENT` repository Actions secret to configure the
+notification recipient on the next deployment. The deploy workflow writes the
+configuration directly on Bluehost, using `bookshelf@rorymcgrath.com` as the
+sender. To manage the configuration manually, leave the secret unset.
+
 Keep the configuration in a private, writable `bookshelf-private` directory
 beside `public_html` on Bluehost. Create `borrow-config.php` there using the
 following format and set the real recipient and a sender authorized by the host.
