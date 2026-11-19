@@ -24,6 +24,13 @@ export function setupBookshelf(panel) {
   const dialogAuthor = dialog.querySelector(".book-dialog-author");
   const dialogCategory = dialog.querySelector(".book-dialog-category");
 
+  const borrowToggle = dialog.querySelector(".book-borrow-toggle");
+  const borrowForm = dialog.querySelector("#book-borrow-form");
+  const borrowName = borrowForm.elements.namedItem("name");
+  const borrowSubmit = borrowForm.querySelector("button[type=submit]");
+  const borrowStatus = dialog.querySelector(".book-borrow-status");
+
+  let bookDetails;
   let books;
   let pending = false;
   let page = 0;
@@ -57,6 +64,14 @@ export function setupBookshelf(panel) {
     dialogTitle.textContent = book.title;
     dialogAuthor.textContent = book.author;
     dialogCategory.textContent = [book.category, book.subcategory].filter(Boolean).join(" · ");
+    bookDetails = { title: book.title, author: book.author };
+    borrowForm.reset();
+    borrowForm.hidden = true;
+    borrowToggle.hidden = false;
+    borrowToggle.setAttribute("aria-expanded", "false");
+    borrowSubmit.disabled = false;
+    borrowSubmit.textContent = "Send request";
+    borrowStatus.textContent = "";
     dialog.showModal();
   }
 
@@ -130,6 +145,56 @@ export function setupBookshelf(panel) {
       pending = false;
     }
   }
+
+  borrowToggle.addEventListener("click", () => {
+    borrowForm.hidden = !borrowForm.hidden;
+    borrowToggle.setAttribute("aria-expanded", String(!borrowForm.hidden));
+    if (!borrowForm.hidden) borrowName.focus();
+  });
+
+  borrowForm.addEventListener("submit", async event => {
+    event.preventDefault();
+    if (borrowSubmit.disabled) return;
+
+    const requestedBook = bookDetails;
+    const fields = Object.fromEntries(new FormData(borrowForm));
+    borrowSubmit.disabled = true;
+    borrowSubmit.textContent = "Sending…";
+    borrowStatus.textContent = "";
+
+    try {
+      const response = await fetch(borrowForm.action, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ ...fields, book: requestedBook }),
+      });
+      const result = await response.json();
+      if (requestedBook !== bookDetails || !dialog.open) return;
+
+      if (!response.ok || result.ok !== true) {
+        borrowStatus.textContent = result.message || "The request couldn’t be sent. Please try again.";
+        return;
+      }
+
+      borrowForm.reset();
+      borrowForm.hidden = true;
+      borrowToggle.hidden = true;
+      borrowToggle.setAttribute("aria-expanded", "false");
+      dialog.querySelector("[autofocus]").focus();
+      borrowStatus.textContent = result.preview
+        ? "Request saved to the local test inbox."
+        : "Request sent. I’ll get back to you about borrowing this book.";
+    } catch {
+      if (requestedBook === bookDetails && dialog.open) {
+        borrowStatus.textContent = "The request couldn’t be sent. Please try again.";
+      }
+    } finally {
+      if (requestedBook === bookDetails) {
+        borrowSubmit.disabled = false;
+        borrowSubmit.textContent = "Send request";
+      }
+    }
+  });
 
   retry.addEventListener("click", load);
   search.addEventListener("input", resetPage);

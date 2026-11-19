@@ -44,6 +44,33 @@ cover choices. The Bluehost workflow excludes `.github/` from deployment.
 Commit the updated catalog and any cover-registry changes. Preview the tab at
 `/#books` from a local HTTP server before merging to `main`.
 
+## Borrowing requests
+
+The book-details dialog sends requests to `bookshelf/borrow.php`. The endpoint
+checks the book against the current catalog, so future CSV imports update the
+list of books that can be requested.
+
+Keep the configuration in a private, writable `bookshelf-private` directory
+beside `public_html` on Bluehost. Create `borrow-config.php` there using the
+following format and set the real recipient and a sender authorized by the host.
+
+```php
+<?php
+return [
+    'mode' => 'email',
+    'recipient' => 'recipient@example.test',
+    'sender' => 'sender@example.test',
+];
+```
+
+The endpoint uses PHP's mail transport and sets Reply-To to the visitor's email.
+Verify delivery to the intended inbox before announcing the feature.
+
+For local testing, create a private config outside the served checkout that
+returns `['mode' => 'preview']`. Point `BOOKSHELF_BORROW_CONFIG` to it and run
+`php -S 127.0.0.1:8766` from the checkout. The endpoint saves test requests in
+`borrow-inbox.jsonl` beside the private configuration.
+
 ## Before first deployment
 
 1. Create a separate GitHub repository for this folder.
