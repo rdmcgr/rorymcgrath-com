@@ -48,6 +48,9 @@ if (strlen($email) > 254 || !filter_var($email, FILTER_VALIDATE_EMAIL)) {
 if (!is_string($note) || strlen($note) > 4000 || strpos($note, "\0") !== false) {
     respond(422, ['message' => 'Please enter a shorter note.']);
 }
+if (preg_match('/\S/u', $note) !== 1) {
+    respond(422, ['message' => 'Please enter a note.']);
+}
 
 $catalog = json_decode((string) file_get_contents(__DIR__ . '/catalog.json'), true);
 if (!is_array($catalog['books'] ?? null)) {
