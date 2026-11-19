@@ -1,4 +1,4 @@
-import { setupBookshelf } from "./bookshelf/bookshelf.js?v=20261119.1";
+import { setupBookshelf } from "./bookshelf/bookshelf.js?v=20261119.2";
 
 document.getElementById("copyright-year").textContent = new Date().getFullYear();
 

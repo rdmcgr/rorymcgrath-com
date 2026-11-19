@@ -6,7 +6,7 @@
     <title>Rory McGrath</title>
     <link rel="icon" type="image/png" href="./images/favicon.png?v=20261118.4" />
     <link rel="apple-touch-icon" href="./images/favicon.png?v=20261118.4" />
-    <link rel="stylesheet" href="./styles.css?v=20261119.1" />
+    <link rel="stylesheet" href="./styles.css?v=20261119.3" />
   </head>
   <body>
     <main class="site">
@@ -126,14 +126,28 @@
                 <h3 id="book-dialog-title"></h3>
                 <p class="book-dialog-author"></p>
                 <p class="book-dialog-category"></p>
+                <button class="books-control book-borrow-toggle" type="button"
+                        aria-expanded="false" aria-controls="book-borrow-form">Request to borrow</button>
               </div>
             </div>
+            <form class="book-borrow-form" id="book-borrow-form" method="post" action="./bookshelf/borrow.php" hidden>
+              <p class="book-borrow-intro" id="book-borrow-intro">Fill out the form below so I can get back to you about borrowing this book.</p>
+              <label for="book-borrow-name">Your name</label>
+              <input id="book-borrow-name" name="name" autocomplete="name" maxlength="100" required>
+              <label for="book-borrow-email">Your email</label>
+              <input id="book-borrow-email" name="email" type="email" autocomplete="email" maxlength="254" required>
+              <label for="book-borrow-note">Note</label>
+              <textarea id="book-borrow-note" name="note" rows="3" maxlength="1000" required></textarea>
+              <button class="books-control book-borrow-submit" type="submit" aria-describedby="book-borrow-intro">Send request</button>
+            </form>
+            <p class="book-borrow-edition">Note: book edition and cover may vary from the one pictured.</p>
+            <p class="book-borrow-status" role="status"></p>
           </dialog>
         </div>
       </section>
 
       <footer class="copyright">&copy; <span id="copyright-year"></span> Rory McGrath.</footer>
     </main>
-    <script type="module" src="./app.js?v=20261119.2"></script>
+    <script type="module" src="./app.js?v=20261119.3"></script>
   </body>
 </html>

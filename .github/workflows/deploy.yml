@@ -25,6 +25,46 @@ jobs:
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan -p "$REMOTE_PORT" "$REMOTE_HOST" >> ~/.ssh/known_hosts
 
+      - name: Configure private bookshelf notifications
+        env:
+          BOOKSHELF_RECIPIENT: ${{ secrets.BOOKSHELF_BORROW_RECIPIENT }}
+        run: |
+          set -o pipefail
+          if [[ -z "$BOOKSHELF_RECIPIENT" ]]; then
+            exit 0
+          fi
+
+          python3 -c '
+          import os
+          import re
+          import sys
+
+          recipient = os.environ["BOOKSHELF_RECIPIENT"]
+          if not re.fullmatch(r"[A-Za-z0-9_.+-]+@[A-Za-z0-9.-]+", recipient):
+              sys.exit("Invalid bookshelf notification recipient.")
+          quote = chr(39)
+          print("<?php")
+          print("return [")
+          for key, value in {
+              "mode": "email",
+              "recipient": recipient,
+              "sender": "bookshelf@rorymcgrath.com",
+          }.items():
+              print(f"    {quote}{key}{quote} => {quote}{value}{quote},")
+          print("];")
+          ' | ssh -i ~/.ssh/id_rsa -p "$REMOTE_PORT" "$REMOTE_USER@$REMOTE_HOST" '
+            set -eu
+            umask 077
+            config_dir="$HOME/bookshelf-private"
+            mkdir -p "$config_dir"
+            config_tmp=$(mktemp "$config_dir/borrow-config.XXXXXX")
+            trap "rm -f -- \"$config_tmp\"" EXIT
+            cat > "$config_tmp"
+            test -s "$config_tmp"
+            php -l "$config_tmp" > /dev/null
+            mv -f -- "$config_tmp" "$config_dir/borrow-config.php"
+          '
+
       - name: Sync root site to Bluehost
         run: |
           rsync -rlgoDzvc \
