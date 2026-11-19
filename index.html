@@ -6,13 +6,14 @@
     <title>Rory McGrath</title>
     <link rel="icon" type="image/png" href="./images/favicon.png?v=20261118.4" />
     <link rel="apple-touch-icon" href="./images/favicon.png?v=20261118.4" />
-    <link rel="stylesheet" href="./styles.css?v=20261118.4" />
+    <link rel="stylesheet" href="./styles.css?v=20261119.1" />
   </head>
   <body>
     <main class="site">
       <nav class="section-switcher" aria-label="Explore the site" role="tablist">
         <button class="section-tab is-active" id="travel-tab" type="button" role="tab" aria-selected="true" aria-controls="travel-panel">Places I’ve Been</button>
         <button class="section-tab" id="projects-tab" type="button" role="tab" aria-selected="false" aria-controls="projects-panel" tabindex="-1">Things I’ve Built</button>
+        <button class="section-tab" id="books-tab" type="button" role="tab" aria-selected="false" aria-controls="books-panel" tabindex="-1">Books I've Read</button>
       </nav>
 
       <section class="window section-panel" id="travel-panel" role="tabpanel" aria-labelledby="travel-tab">
@@ -70,8 +71,69 @@
         </div>
       </section>
 
+      <section class="window section-panel" id="books-panel" role="tabpanel" aria-labelledby="books-tab" hidden>
+        <div class="title-bar">
+          <span>LIBRARY.EXE</span>
+          <span aria-hidden="true">_ □ ×</span>
+        </div>
+        <div class="books-content">
+          <p class="kicker">MY PERSONAL LIBRARY</p>
+          <h2>Books on<br>my shelves<span class="cursor" aria-hidden="true">_</span></h2>
+          <p id="books-loading" role="status">Loading books…</p>
+          <button class="books-control" type="button" id="books-retry" hidden>Try again</button>
+          <div id="books-catalog" hidden>
+            <div class="books-toolbar">
+              <input class="books-control" id="books-search" type="search" aria-label="Search titles or authors" placeholder="Search titles or authors" />
+              <select class="books-control" id="books-category" aria-label="Filter by category">
+                <option value="">All categories</option>
+              </select>
+            </div>
+            <div class="books-toolbar books-display">
+              <p id="books-count" role="status"></p>
+              <div class="books-views" role="group" aria-label="Library view">
+                <button class="books-control" type="button" data-books-view="wall" aria-pressed="true">Cover wall</button>
+                <button class="books-control" type="button" data-books-view="catalog" aria-pressed="false">Catalog</button>
+              </div>
+            </div>
+            <ul class="books-list" data-view="wall"></ul>
+            <nav class="books-pages" aria-label="Book catalog pages" hidden>
+              <button class="books-control" type="button" id="books-previous">Previous</button>
+              <button class="books-control" type="button" id="books-next">Next</button>
+            </nav>
+            <p class="books-note">Note: some of these books were gifts and/or recommendations from friends and family. The views of the author are their own and may be different than my own views.</p>
+          </div>
+          <template id="book-tile">
+            <li>
+              <button class="book-tile" type="button" aria-haspopup="dialog">
+                <span class="book-jacket" aria-hidden="true">
+                  <strong></strong>
+                  <span></span>
+                </span>
+                <span class="book-title"></span>
+                <span class="book-author"></span>
+                <span class="book-category"></span>
+              </button>
+            </li>
+          </template>
+          <dialog class="book-dialog" aria-labelledby="book-dialog-title">
+            <div class="title-bar">
+              <span>BOOK DETAILS</span>
+              <form method="dialog"><button class="books-control" type="submit" aria-label="Close book details" autofocus>×</button></form>
+            </div>
+            <div class="book-dialog-content">
+              <div class="book-dialog-cover"></div>
+              <div>
+                <h3 id="book-dialog-title"></h3>
+                <p class="book-dialog-author"></p>
+                <p class="book-dialog-category"></p>
+              </div>
+            </div>
+          </dialog>
+        </div>
+      </section>
+
       <footer class="copyright">&copy; <span id="copyright-year"></span> Rory McGrath.</footer>
     </main>
-    <script src="./app.js?v=20261118"></script>
+    <script type="module" src="./app.js?v=20261119.2"></script>
   </body>
 </html>
