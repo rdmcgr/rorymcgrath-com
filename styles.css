@@ -87,8 +87,12 @@ body {
   width: min(760px, 100%);
   margin-top: 0;
   border: 5px solid var(--ink);
-  box-shadow: 12px 12px 0 var(--pink);
+  box-shadow: 12px 12px 0 var(--purple);
   background: var(--paper);
+}
+
+.projects-window .title-bar {
+  background: var(--purple);
 }
 
 .title-bar {
@@ -113,9 +117,9 @@ body {
 .kicker {
   display: inline-block;
   margin: 0;
-  padding: 5px 8px;
+  padding: 7px 11px;
   border: 2px solid var(--ink);
-  font-size: clamp(0.65rem, 2.2vw, 0.85rem);
+  font-size: clamp(0.9rem, 3vw, 1.15rem);
   font-weight: bold;
   letter-spacing: 0.08em;
   background: var(--yellow);
@@ -150,6 +154,7 @@ h1 {
 .travel-map {
   width: 100%;
   margin: 0 0 20px;
+  box-shadow: 6px 6px 0 var(--pink);
 }
 
 .map-key {
@@ -365,7 +370,7 @@ h1 {
   .section-switcher { margin-bottom: 11px; padding: 4px; box-shadow: 5px 5px 0 var(--ink); }
   .section-tab { min-height: 42px; padding-inline: 7px; font-size: 0.68rem; letter-spacing: 0.02em; }
   .window { border-width: 4px; box-shadow: 6px 6px 0 var(--purple); }
-  .projects-window { border-width: 4px; box-shadow: 6px 6px 0 var(--pink); }
+  .projects-window { border-width: 4px; box-shadow: 6px 6px 0 var(--purple); }
   .screen { padding: 30px 16px; }
   .projects-content { padding: 30px 20px; }
   .projects-content h2 { margin: 18px 0 24px; font-size: clamp(2.3rem, 13vw, 3.5rem); }
