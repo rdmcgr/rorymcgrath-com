@@ -255,6 +255,27 @@ h1 {
   color: #fff;
 }
 
+.project-card--sunday {
+  background:
+    radial-gradient(circle at 82% 12%, rgba(255, 209, 94, 0.22), transparent 30%),
+    linear-gradient(145deg, #971e2c, #4f101b);
+}
+
+.sunday-logo {
+  width: 100%;
+  margin: 0 0 26px;
+  border: 2px solid rgba(255, 255, 255, 0.42);
+  padding: 10px;
+  background: #0d1118;
+  box-shadow: 5px 5px 0 rgba(13, 17, 24, 0.66);
+}
+
+.sunday-logo img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .project-type {
   margin: 0;
   color: var(--yellow);
@@ -298,6 +319,32 @@ h1 {
 .project-link:focus-visible {
   color: #fff;
   background: var(--pink);
+}
+
+.project-card--superleague {
+  background:
+    radial-gradient(circle at 75% 12%, rgba(74, 215, 218, 0.24), transparent 30%),
+    linear-gradient(145deg, #101723, #060910);
+}
+
+.superleague-screenshot {
+  width: min(100%, 390px);
+  margin: 0 auto 28px;
+  overflow: hidden;
+  border: 2px solid rgba(119, 233, 219, 0.6);
+  border-radius: 6px;
+  background: #060910;
+  box-shadow: 8px 8px 0 rgba(119, 233, 219, 0.28);
+}
+
+.superleague-screenshot img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media (max-width: 480px) {
+  .superleague-screenshot { width: min(100%, 340px); margin-bottom: 22px; box-shadow: 5px 5px 0 rgba(119, 233, 219, 0.28); }
 }
 
 .section-panel:not([hidden]) {
