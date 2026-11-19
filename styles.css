@@ -28,16 +28,18 @@ body {
 }
 
 .site {
-  display: grid;
+  display: flex;
+  flex-direction: column;
   min-height: 100vh;
-  place-items: center;
+  align-items: center;
+  justify-content: center;
   padding: 24px;
 }
 
 .section-switcher {
   display: inline-flex;
   width: min(760px, 100%);
-  margin-bottom: 14px;
+  margin: 0 0 14px;
   padding: 6px;
   border: 3px solid var(--ink);
   background: var(--paper);
@@ -312,7 +314,7 @@ h1 {
 }
 
 @media (max-width: 480px) {
-  .site { padding: 12px; }
+  .site { justify-content: flex-start; padding: 12px; }
   .section-switcher { margin-bottom: 11px; padding: 4px; box-shadow: 5px 5px 0 var(--ink); }
   .section-tab { min-height: 42px; padding-inline: 7px; font-size: 0.68rem; letter-spacing: 0.02em; }
   .window { border-width: 4px; box-shadow: 6px 6px 0 var(--purple); }
