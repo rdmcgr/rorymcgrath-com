@@ -374,10 +374,10 @@ h1 {
   .projects-window { border-width: 4px; box-shadow: 6px 6px 0 var(--purple); }
   .screen { padding: 30px 16px; }
   .projects-content { padding: 30px 20px; }
-  .projects-content h2 { margin: 18px 0 24px; font-size: clamp(2.3rem, 13vw, 3.5rem); }
+  .projects-content h2 { margin: 18px 0 24px; }
   .project-card { padding: 22px; box-shadow: 4px 4px 0 var(--teal); }
   .project-link { box-shadow: 3px 3px 0 var(--ink); }
-  h1 { margin: 18px auto 22px; font-size: clamp(2.4rem, 13vw, 3.5rem); }
+  h1 { margin: 18px auto 22px; }
   .travel-map iframe { height: 280px; }
   .map-caption { margin-bottom: 16px; font-size: 0.95rem; }
   .map-key { width: min(78%, 280px); margin-bottom: 18px; }
@@ -403,6 +403,14 @@ h1 {
 }
 
 .books-content h2 .cursor { text-shadow: none; }
+
+@media (max-width: 480px) {
+  h1,
+  .projects-content h2,
+  .books-content h2 {
+    font-size: clamp(2.4rem, 13vw, 3.5rem);
+  }
+}
 
 .books-toolbar {
   display: flex;
