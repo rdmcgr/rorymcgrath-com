@@ -117,8 +117,9 @@ if (!$stored) {
 }
 
 $emailBody = "From: {$request['name']} <{$request['email']}>\n\n" . $request['message'];
+$fromHeader = $sender . ' <' . $sender . '>';
 if (!mail($recipient, 'Website contact note', $emailBody, [
-    'From' => $sender,
+    'From' => $fromHeader,
     'Reply-To' => $email,
     'Content-Type' => 'text/plain; charset=UTF-8',
 ])) {
