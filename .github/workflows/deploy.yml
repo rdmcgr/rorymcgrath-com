@@ -59,7 +59,9 @@ jobs:
             set -eu
             umask 077
             config_body=$(cat)
-            for config_target in "$HOME/bookshelf-private/borrow-config.php" "$HOME/contact-private/contact-config.php"; do
+            write_config() {
+              config_body="$1"
+              config_target="$2"
               config_dir=$(dirname "$config_target")
               mkdir -p "$config_dir"
               config_tmp=$(mktemp "$config_dir/config.XXXXXX")
@@ -67,7 +69,10 @@ jobs:
               test -s "$config_tmp"
               php -l "$config_tmp" > /dev/null
               mv -f -- "$config_tmp" "$config_target"
-            done
+            }
+            write_config "$config_body" "$HOME/bookshelf-private/borrow-config.php"
+            contact_config_body=$(printf "%s\\n" "$config_body" | sed "s/bookshelf@rorymcgrath\\.com/contact@rorymcgrath.com/")
+            write_config "$contact_config_body" "$HOME/contact-private/contact-config.php"
           '
 
       - name: Sync root site to Bluehost
