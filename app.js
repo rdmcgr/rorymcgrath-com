@@ -6,18 +6,32 @@ const contactDialog = document.getElementById("contact-dialog");
 const contactOpen = document.getElementById("contact-open");
 const contactForm = document.getElementById("contact-form");
 const contactStatus = document.getElementById("contact-status");
+const contactHumanCheck = document.getElementById("contact-human-check");
+const contactSubmit = contactForm.querySelector("button[type=submit]");
+let contactReady = false;
 
 contactOpen.addEventListener("click", () => {
-  contactStatus.textContent = "";
   contactDialog.showModal();
   document.getElementById("contact-name").focus();
+  if (contactReady) {
+    contactStatus.textContent = "";
+    return;
+  }
+  contactSubmit.disabled = true;
+  contactStatus.textContent = "Preparing secure connection…";
+  contactHumanCheck.addEventListener("load", () => {
+    contactReady = true;
+    contactSubmit.disabled = false;
+    contactStatus.textContent = "";
+  }, { once: true });
+  contactHumanCheck.src = `${contactHumanCheck.dataset.src}?check=${Date.now()}`;
 });
 
 contactForm.addEventListener("submit", async (event) => {
   event.preventDefault();
-  const submitButton = contactForm.querySelector("button[type=submit]");
+  if (!contactReady) return;
   const fields = Object.fromEntries(new FormData(contactForm));
-  submitButton.disabled = true;
+  contactSubmit.disabled = true;
   contactStatus.textContent = "Sending note…";
 
   try {
@@ -33,7 +47,7 @@ contactForm.addEventListener("submit", async (event) => {
   } catch (error) {
     contactStatus.textContent = error.message || "Unable to send your note. Please try again later.";
   } finally {
-    submitButton.disabled = false;
+    contactSubmit.disabled = false;
   }
 });
 
