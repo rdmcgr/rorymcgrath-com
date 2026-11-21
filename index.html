@@ -4,9 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Rory McGrath</title>
-    <link rel="icon" type="image/png" href="./images/favicon.png?v=20261118.4" />
-    <link rel="apple-touch-icon" href="./images/favicon.png?v=20261118.4" />
-    <link rel="stylesheet" href="./styles.css?v=20261120.1" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32.png?v=20261120.2" />
+    <link rel="icon" type="image/png" sizes="192x192" href="./images/favicon-192.png?v=20261120.2" />
+    <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png?v=20261120.2" />
+    <link rel="stylesheet" href="./styles.css?v=20261120.3" />
   </head>
   <body>
     <main class="site">
@@ -146,8 +147,34 @@
         </div>
       </section>
 
+      <section class="contact-callout" aria-label="Contact">
+        <div>
+          <p class="contact-label">CONTACT</p>
+          <p>Have an idea or a fun side quest? Send it my way. Or just send a friendly note to say hello.</p>
+        </div>
+        <button class="contact-open" id="contact-open" type="button" aria-haspopup="dialog" aria-controls="contact-dialog">Send note <span aria-hidden="true">↗</span></button>
+      </section>
+
+      <dialog class="contact-dialog" id="contact-dialog" aria-labelledby="contact-dialog-title">
+        <div class="title-bar">
+          <span>CONTACT TERMINAL</span>
+          <form method="dialog"><button class="books-control" type="submit" aria-label="Close contact form" autofocus>×</button></form>
+        </div>
+        <form class="contact-form" id="contact-form" method="post" action="./contact/send.php">
+          <p id="contact-dialog-title">Leave a note below. Your message will be routed without displaying my email address.</p>
+          <label for="contact-name">Your name</label>
+          <input id="contact-name" name="name" autocomplete="name" maxlength="100" required>
+          <label for="contact-email">Your email</label>
+          <input id="contact-email" name="email" type="email" autocomplete="email" maxlength="254" required>
+          <label for="contact-message">Message</label>
+          <textarea id="contact-message" name="message" rows="5" maxlength="2000" required></textarea>
+          <button class="contact-send" type="submit">Send note</button>
+          <p class="contact-status" id="contact-status" role="status"></p>
+        </form>
+      </dialog>
+
       <footer class="copyright">&copy; <span id="copyright-year"></span> Rory McGrath.</footer>
     </main>
-    <script type="module" src="./app.js?v=20261119.3"></script>
+    <script type="module" src="./app.js?v=20261120.3"></script>
   </body>
 </html>

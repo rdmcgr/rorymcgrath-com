@@ -76,6 +76,17 @@ returns `['mode' => 'preview']`. Point `BOOKSHELF_BORROW_CONFIG` to it and run
 `php -S 127.0.0.1:8766` from the checkout. The endpoint saves test requests in
 `borrow-inbox.jsonl` beside the private configuration.
 
+## Contact notes
+
+The footer contact dialog sends JSON requests to `contact/send.php`. Its private
+configuration is kept outside the served checkout at `contact-private/contact-config.php`.
+The deployment creates it from the existing `BOOKSHELF_BORROW_RECIPIENT` GitHub
+secret, so the recipient address is never committed or exposed in the site.
+
+Contact notes are limited to five messages per server-observed IP address per
+24-hour period, with a 25-message site-wide daily limit. For local preview,
+point `CONTACT_FORM_CONFIG` to a config returning `['mode' => 'preview']`.
+
 ## Before first deployment
 
 1. Create a separate GitHub repository for this folder.

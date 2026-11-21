@@ -2,6 +2,41 @@ import { setupBookshelf } from "./bookshelf/bookshelf.js?v=20261119.2";
 
 document.getElementById("copyright-year").textContent = new Date().getFullYear();
 
+const contactDialog = document.getElementById("contact-dialog");
+const contactOpen = document.getElementById("contact-open");
+const contactForm = document.getElementById("contact-form");
+const contactStatus = document.getElementById("contact-status");
+
+contactOpen.addEventListener("click", () => {
+  contactStatus.textContent = "";
+  contactDialog.showModal();
+  document.getElementById("contact-name").focus();
+});
+
+contactForm.addEventListener("submit", async (event) => {
+  event.preventDefault();
+  const submitButton = contactForm.querySelector("button[type=submit]");
+  const fields = Object.fromEntries(new FormData(contactForm));
+  submitButton.disabled = true;
+  contactStatus.textContent = "Sending note…";
+
+  try {
+    const response = await fetch(contactForm.action, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(fields),
+    });
+    const result = await response.json().catch(() => ({}));
+    if (!response.ok || !result.ok) throw new Error(result.message || "Unable to send your note. Please try again later.");
+    contactForm.reset();
+    contactStatus.textContent = "Note sent. Thanks for reaching out.";
+  } catch (error) {
+    contactStatus.textContent = error.message || "Unable to send your note. Please try again later.";
+  } finally {
+    submitButton.disabled = false;
+  }
+});
+
 const sectionTabs = [...document.querySelectorAll(".section-tab")];
 const sectionPanels = [...document.querySelectorAll(".section-panel")];
 const travelTab = document.getElementById("travel-tab");
