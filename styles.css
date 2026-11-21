@@ -459,8 +459,30 @@ h1 {
   display: block;
 }
 
+.project-card--league {
+  background:
+    radial-gradient(circle at 82% 10%, rgba(234, 31, 48, 0.25), transparent 34%),
+    linear-gradient(145deg, #1f2b3b, #0c121b);
+}
+
+.league-screenshot {
+  width: min(100%, 510px);
+  margin: 0 auto;
+  overflow: hidden;
+  border: 2px solid rgba(255, 255, 255, 0.44);
+  background: #0c121b;
+  box-shadow: 8px 8px 0 rgba(234, 31, 48, 0.5);
+}
+
+.league-screenshot img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 @media (max-width: 480px) {
   .superleague-screenshot { width: min(100%, 340px); margin-bottom: 22px; box-shadow: 5px 5px 0 rgba(119, 233, 219, 0.28); }
+  .league-screenshot { width: min(100%, 340px); box-shadow: 5px 5px 0 rgba(234, 31, 48, 0.5); }
 }
 
 .section-panel:not([hidden]) {
